@@ -1,0 +1,590 @@
+{
+    "Fizz": {
+        "rank": "1",
+        "win_ratio": "56.73%"
+    },
+    "Alistar": {
+        "rank": "2",
+        "win_ratio": "55.56%"
+    },
+    "Yorick": {
+        "rank": "3",
+        "win_ratio": "54.00%"
+    },
+    "Draven": {
+        "rank": "4",
+        "win_ratio": "53.42%"
+    },
+    "Malphite": {
+        "rank": "5",
+        "win_ratio": "52.67%"
+    },
+    "Graves": {
+        "rank": "6",
+        "win_ratio": "51.43%"
+    },
+    "Warwick": {
+        "rank": "7",
+        "win_ratio": "50.46%"
+    },
+    "Nidalee": {
+        "rank": "8",
+        "win_ratio": "50.00%"
+    },
+    "Zed": {
+        "rank": "9",
+        "win_ratio": "49.63%"
+    },
+    "Ornn": {
+        "rank": "10",
+        "win_ratio": "49.38%"
+    },
+    "Aphelios": {
+        "rank": "11",
+        "win_ratio": "49.02%"
+    },
+    "Volibear": {
+        "rank": "12",
+        "win_ratio": "48.94%"
+    },
+    "Ziggs": {
+        "rank": "13",
+        "win_ratio": "48.89%"
+    },
+    "Evelynn": {
+        "rank": "14",
+        "win_ratio": "48.84%"
+    },
+    "Jinx": {
+        "rank": "15",
+        "win_ratio": "48.75%"
+    },
+    "Blitzcrank": {
+        "rank": "16",
+        "win_ratio": "48.66%"
+    },
+    "Kalista": {
+        "rank": "17",
+        "win_ratio": "48.28%"
+    },
+    "Lulu": {
+        "rank": "18",
+        "win_ratio": "48.10%"
+    },
+    "Kha'Zix": {
+        "rank": "19",
+        "win_ratio": "48.08%"
+    },
+    "Sona": {
+        "rank": "20",
+        "win_ratio": "48.00%"
+    },
+    "Teemo": {
+        "rank": "21",
+        "win_ratio": "47.55%"
+    },
+    "Lucian": {
+        "rank": "22",
+        "win_ratio": "47.48%"
+    },
+    "Soraka": {
+        "rank": "23",
+        "win_ratio": "47.11%"
+    },
+    "Nasus": {
+        "rank": "24",
+        "win_ratio": "46.99%"
+    },
+    "Singed": {
+        "rank": "25",
+        "win_ratio": "46.94%"
+    },
+    "Senna": {
+        "rank": "26",
+        "win_ratio": "46.89%"
+    },
+    "Nocturne": {
+        "rank": "27",
+        "win_ratio": "46.84%"
+    },
+    "Nautilus": {
+        "rank": "28",
+        "win_ratio": "46.82%"
+    },
+    "Jax": {
+        "rank": "29",
+        "win_ratio": "46.67%"
+    },
+    "Urgot": {
+        "rank": "30",
+        "win_ratio": "46.67%"
+    },
+    "Sivir": {
+        "rank": "31",
+        "win_ratio": "46.51%"
+    },
+    "Karthus": {
+        "rank": "32",
+        "win_ratio": "46.51%"
+    },
+    "Taric": {
+        "rank": "33",
+        "win_ratio": "46.51%"
+    },
+    "Sion": {
+        "rank": "34",
+        "win_ratio": "46.30%"
+    },
+    "Neeko": {
+        "rank": "35",
+        "win_ratio": "46.25%"
+    },
+    "Miss Fortune": {
+        "rank": "36",
+        "win_ratio": "46.07%"
+    },
+    "Garen": {
+        "rank": "37",
+        "win_ratio": "45.71%"
+    },
+    "Nami": {
+        "rank": "38",
+        "win_ratio": "45.61%"
+    },
+    "Thresh": {
+        "rank": "39",
+        "win_ratio": "45.20%"
+    },
+    "Caitlyn": {
+        "rank": "40",
+        "win_ratio": "44.98%"
+    },
+    "Ashe": {
+        "rank": "41",
+        "win_ratio": "44.90%"
+    },
+    "Skarner": {
+        "rank": "42",
+        "win_ratio": "44.83%"
+    },
+    "Akali": {
+        "rank": "43",
+        "win_ratio": "44.44%"
+    },
+    "LeBlanc": {
+        "rank": "44",
+        "win_ratio": "44.44%"
+    },
+    "Galio": {
+        "rank": "45",
+        "win_ratio": "44.44%"
+    },
+    "Pantheon": {
+        "rank": "46",
+        "win_ratio": "44.30%"
+    },
+    "Tristana": {
+        "rank": "47",
+        "win_ratio": "43.75%"
+    },
+    "Zilean": {
+        "rank": "48",
+        "win_ratio": "43.59%"
+    },
+    "Mordekaiser": {
+        "rank": "49",
+        "win_ratio": "43.33%"
+    },
+    "Zoe": {
+        "rank": "50",
+        "win_ratio": "43.18%"
+    },
+    "Shyvana": {
+        "rank": "51",
+        "win_ratio": "42.86%"
+    },
+    "Kassadin": {
+        "rank": "52",
+        "win_ratio": "42.86%"
+    },
+    "Ahri": {
+        "rank": "53",
+        "win_ratio": "42.86%"
+    },
+    "Master Yi": {
+        "rank": "54",
+        "win_ratio": "42.72%"
+    },
+    "Olaf": {
+        "rank": "55",
+        "win_ratio": "42.64%"
+    },
+    "Talon": {
+        "rank": "56",
+        "win_ratio": "42.39%"
+    },
+    "Darius": {
+        "rank": "57",
+        "win_ratio": "42.33%"
+    },
+    "Shen": {
+        "rank": "58",
+        "win_ratio": "42.25%"
+    },
+    "Lissandra": {
+        "rank": "59",
+        "win_ratio": "41.67%"
+    },
+    "Quinn": {
+        "rank": "60",
+        "win_ratio": "41.67%"
+    },
+    "Ivern": {
+        "rank": "61",
+        "win_ratio": "41.67%"
+    },
+    "Rakan": {
+        "rank": "62",
+        "win_ratio": "41.54%"
+    },
+    "Veigar": {
+        "rank": "63",
+        "win_ratio": "41.54%"
+    },
+    "Yasuo": {
+        "rank": "64",
+        "win_ratio": "41.34%"
+    },
+    "Diana": {
+        "rank": "65",
+        "win_ratio": "41.13%"
+    },
+    "Cassiopeia": {
+        "rank": "66",
+        "win_ratio": "41.03%"
+    },
+    "Pyke": {
+        "rank": "67",
+        "win_ratio": "40.82%"
+    },
+    "Kindred": {
+        "rank": "68",
+        "win_ratio": "40.68%"
+    },
+    "Heimerdinger": {
+        "rank": "69",
+        "win_ratio": "40.65%"
+    },
+    "Kled": {
+        "rank": "70",
+        "win_ratio": "40.63%"
+    },
+    "Kai'Sa": {
+        "rank": "71",
+        "win_ratio": "40.56%"
+    },
+    "Varus": {
+        "rank": "72",
+        "win_ratio": "40.16%"
+    },
+    "Renekton": {
+        "rank": "73",
+        "win_ratio": "40.00%"
+    },
+    "Hecarim": {
+        "rank": "74",
+        "win_ratio": "40.00%"
+    },
+    "Shaco": {
+        "rank": "75",
+        "win_ratio": "39.81%"
+    },
+    "Fiora": {
+        "rank": "76",
+        "win_ratio": "39.80%"
+    },
+    "Riven": {
+        "rank": "77",
+        "win_ratio": "39.62%"
+    },
+    "Janna": {
+        "rank": "78",
+        "win_ratio": "39.39%"
+    },
+    "Swain": {
+        "rank": "79",
+        "win_ratio": "39.39%"
+    },
+    "Amumu": {
+        "rank": "80",
+        "win_ratio": "39.36%"
+    },
+    "Malzahar": {
+        "rank": "81",
+        "win_ratio": "39.29%"
+    },
+    "Poppy": {
+        "rank": "82",
+        "win_ratio": "39.22%"
+    },
+    "Lux": {
+        "rank": "83",
+        "win_ratio": "39.19%"
+    },
+    "Brand": {
+        "rank": "84",
+        "win_ratio": "39.18%"
+    },
+    "Ryze": {
+        "rank": "85",
+        "win_ratio": "39.13%"
+    },
+    "Rek'Sai": {
+        "rank": "86",
+        "win_ratio": "39.13%"
+    },
+    "Fiddlesticks": {
+        "rank": "87",
+        "win_ratio": "38.96%"
+    },
+    "Xerath": {
+        "rank": "88",
+        "win_ratio": "38.89%"
+    },
+    "Nunu & Willump": {
+        "rank": "89",
+        "win_ratio": "38.89%"
+    },
+    "Xayah": {
+        "rank": "90",
+        "win_ratio": "38.81%"
+    },
+    "Trundle": {
+        "rank": "91",
+        "win_ratio": "38.71%"
+    },
+    "Sejuani": {
+        "rank": "92",
+        "win_ratio": "38.71%"
+    },
+    "Ekko": {
+        "rank": "93",
+        "win_ratio": "38.61%"
+    },
+    "Tryndamere": {
+        "rank": "94",
+        "win_ratio": "38.22%"
+    },
+    "Morgana": {
+        "rank": "95",
+        "win_ratio": "37.96%"
+    },
+    "Lee Sin": {
+        "rank": "96",
+        "win_ratio": "37.84%"
+    },
+    "Jhin": {
+        "rank": "97",
+        "win_ratio": "37.65%"
+    },
+    "Leona": {
+        "rank": "98",
+        "win_ratio": "37.58%"
+    },
+    "Annie": {
+        "rank": "99",
+        "win_ratio": "37.35%"
+    },
+    "Braum": {
+        "rank": "100",
+        "win_ratio": "37.10%"
+    },
+    "Illaoi": {
+        "rank": "101",
+        "win_ratio": "36.94%"
+    },
+    "Dr. Mundo": {
+        "rank": "102",
+        "win_ratio": "36.75%"
+    },
+    "Zac": {
+        "rank": "103",
+        "win_ratio": "36.73%"
+    },
+    "Irelia": {
+        "rank": "104",
+        "win_ratio": "36.73%"
+    },
+    "Udyr": {
+        "rank": "105",
+        "win_ratio": "36.59%"
+    },
+    "Vel'Koz": {
+        "rank": "106",
+        "win_ratio": "36.59%"
+    },
+    "Xin Zhao": {
+        "rank": "107",
+        "win_ratio": "36.30%"
+    },
+    "Vi": {
+        "rank": "108",
+        "win_ratio": "36.17%"
+    },
+    "Vladimir": {
+        "rank": "109",
+        "win_ratio": "36.11%"
+    },
+    "Twitch": {
+        "rank": "110",
+        "win_ratio": "35.90%"
+    },
+    "Katarina": {
+        "rank": "111",
+        "win_ratio": "35.87%"
+    },
+    "Jarvan IV": {
+        "rank": "112",
+        "win_ratio": "35.85%"
+    },
+    "Cho'Gath": {
+        "rank": "113",
+        "win_ratio": "35.79%"
+    },
+    "Twisted Fate": {
+        "rank": "114",
+        "win_ratio": "35.71%"
+    },
+    "Ezreal": {
+        "rank": "115",
+        "win_ratio": "35.19%"
+    },
+    "Syndra": {
+        "rank": "116",
+        "win_ratio": "35.14%"
+    },
+    "Vayne": {
+        "rank": "117",
+        "win_ratio": "35.11%"
+    },
+    "Azir": {
+        "rank": "118",
+        "win_ratio": "34.78%"
+    },
+    "Rengar": {
+        "rank": "119",
+        "win_ratio": "34.72%"
+    },
+    "Elise": {
+        "rank": "120",
+        "win_ratio": "34.62%"
+    },
+    "Wukong": {
+        "rank": "121",
+        "win_ratio": "34.43%"
+    },
+    "Kayle": {
+        "rank": "122",
+        "win_ratio": "34.34%"
+    },
+    "Zyra": {
+        "rank": "123",
+        "win_ratio": "34.21%"
+    },
+    "Qiyana": {
+        "rank": "124",
+        "win_ratio": "33.33%"
+    },
+    "Karma": {
+        "rank": "125",
+        "win_ratio": "33.33%"
+    },
+    "Maokai": {
+        "rank": "126",
+        "win_ratio": "33.33%"
+    },
+    "Corki": {
+        "rank": "127",
+        "win_ratio": "33.33%"
+    },
+    "Gnar": {
+        "rank": "128",
+        "win_ratio": "33.33%"
+    },
+    "Viktor": {
+        "rank": "129",
+        "win_ratio": "33.33%"
+    },
+    "Bard": {
+        "rank": "130",
+        "win_ratio": "33.33%"
+    },
+    "Aatrox": {
+        "rank": "131",
+        "win_ratio": "32.61%"
+    },
+    "Anivia": {
+        "rank": "132",
+        "win_ratio": "32.47%"
+    },
+    "Sylas": {
+        "rank": "133",
+        "win_ratio": "32.26%"
+    },
+    "Gangplank": {
+        "rank": "134",
+        "win_ratio": "31.82%"
+    },
+    "Orianna": {
+        "rank": "135",
+        "win_ratio": "31.43%"
+    },
+    "Rumble": {
+        "rank": "136",
+        "win_ratio": "31.25%"
+    },
+    "Kog'Maw": {
+        "rank": "137",
+        "win_ratio": "31.03%"
+    },
+    "Rammus": {
+        "rank": "138",
+        "win_ratio": "30.95%"
+    },
+    "Camille": {
+        "rank": "139",
+        "win_ratio": "30.77%"
+    },
+    "Aurelion Sol": {
+        "rank": "140",
+        "win_ratio": "30.77%"
+    },
+    "Taliyah": {
+        "rank": "141",
+        "win_ratio": "30.00%"
+    },
+    "Tahm Kench": {
+        "rank": "142",
+        "win_ratio": "30.00%"
+    },
+    "Kayn": {
+        "rank": "143",
+        "win_ratio": "28.93%"
+    },
+    "Gragas": {
+        "rank": "144",
+        "win_ratio": "28.57%"
+    },
+    "Yuumi": {
+        "rank": "145",
+        "win_ratio": "28.26%"
+    },
+    "Kennen": {
+        "rank": "146",
+        "win_ratio": "25.81%"
+    },
+    "Jayce": {
+        "rank": "147",
+        "win_ratio": "20.69%"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "team_cols": [
+        "teamWinrate",
+        "killsPergame", "deathsPergame", "assistsPergame",
+        "totalHeronum", "avgDuration",
+        "fstbloodpercentage", "fstbloodwinPercentage",
+        "wardsplacedpermin", "wardskilledpermin", "wardskilledrate",
+        "dragonkillsPergame", "dragonkillspercentage", 
+        "baronkillsPergame", "baronkillspercentage", "firstbaronwinPercentage",
+        "towertakensPergame", "towerdeathsPergame", "fsttowerpercentage", "firsttowerwinPercentage"
+    ],
+    "team_new_cols": [
+        "win_rate",
+        "kills/game", "deaths/game", "assists/game",
+        "total_heroes", "avg_time/game",
+        "1stblood_rate", "1stblood_winrate",
+        "wards/min", "wards_killed/min", "wards_killed_rate",
+        "dragons/game", "dragon_rate",
+        "barons/game", "baron_rate", "1stbaron_win_rate",
+        "towers/game", "towers_lost/game", "1sttower_rate", "1sttower_win_rate"
+    ],
+   "player_cols": [
+        "meta", "teamname", "heronum",
+        "killsPergame", "deathsPergame", "assistsPergame",
+        "goldsPermin", "lasthitPermin", "goldsPercent",
+        "damagetakenPermin", "damagetoheroPermin", "damagetakenPercent", "damagetoheroPercent",
+        "attendrate", "damagetoheroConversionRate",
+        "wardsplacedPermin", "wardskilledPermin",
+        "lasthitPergameDiff", "metaGoldsLead"
+   ],
+   "player_new_cols": [
+        "pos", "teamname", "heronum",
+        "kills/game", "deaths/game", "asts/game",
+        "golds/min", "lasthit/min", "golds_rate",
+        "dmg_taken/min", "dmg/min", "dmg_taken_rate", "dmg_rate",
+        "attend_rate", "dmg/golds",
+        "wards/min", "wards_killed/min",
+        "lasthit_lead/game", "golds_lead/game"
+    ],
+   "hero_cols": ["winrate", "kda", "banrate", "popularity"],
+   "hero_new_cols": ["win_rate", "kda", "ban_rate", "appear_rate"]
+}

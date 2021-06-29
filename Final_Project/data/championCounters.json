@@ -1,0 +1,2621 @@
+{
+    "Aatrox": {
+        "top": {
+            "strong": {
+                "Gnar": "38.61%",
+                "Nocturne": "38.79%",
+                "Riven": "39.68%"
+            },
+            "weak": {
+                "Warwick": "60.00%",
+                "Cassiopeia": "53.57%",
+                "Vladimir": "52.56%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Kassadin": "39.00%",
+                "Yorick": "39.16%",
+                "Nasus": "39.51%"
+            },
+            "weak": {
+                "Gnar": "60.00%",
+                "Vayne": "60.00%",
+                "Gangplank": "57.42%"
+            }
+        },
+        "jungle": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Ahri": {
+        "middle": {
+            "strong": {
+                "Vel'Koz": "38.67%",
+                "Rumble": "44.07%",
+                "Anivia": "44.20%"
+            },
+            "weak": {
+                "Jayce": "66.67%",
+                "Aatrox": "65.38%",
+                "Aphelios": "63.33%"
+            }
+        }
+    },
+    "Akali": {
+        "top": {
+            "strong": {
+                "Yorick": "39.27%",
+                "Kassadin": "39.62%",
+                "Maokai": "40.09%"
+            },
+            "weak": {
+                "Olaf": "57.04%",
+                "Sylas": "51.66%",
+                "Sion": "51.28%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Darius": "45.16%",
+                "Ornn": "45.35%",
+                "Akali": "48.72%"
+            },
+            "weak": {
+                "Yasuo": "54.72%",
+                "Garen": "53.97%",
+                "Teemo": "52.38%"
+            }
+        }
+    },
+    "Alistar": {
+        "support": {
+            "strong": {
+                "Fiddlesticks": "38.82%",
+                "Swain": "41.18%",
+                "Taric": "41.54%"
+            },
+            "weak": {
+                "Zyra": "58.42%",
+                "Vel'Koz": "57.14%",
+                "Malphite": "56.52%"
+            }
+        }
+    },
+    "Amumu": {
+        "jungle": {
+            "strong": {
+                "Karthus": "41.57%",
+                "Dr. Mundo": "42.92%",
+                "Olaf": "43.12%"
+            },
+            "weak": {
+                "Qiyana": "62.50%",
+                "Aatrox": "60.94%",
+                "Nidalee": "56.27%"
+            }
+        }
+    },
+    "Anivia": {
+        "middle": {
+            "strong": {
+                "Nocturne": "36.36%",
+                "Kassadin": "39.72%",
+                "Syndra": "41.82%"
+            },
+            "weak": {
+                "Xerath": "62.50%",
+                "Zoe": "58.82%",
+                "Fizz": "58.43%"
+            }
+        }
+    },
+    "Annie": {
+        "middle": {
+            "strong": {
+                "Ahri": "42.86%",
+                "Qiyana": "44.44%",
+                "Katarina": "45.59%"
+            },
+            "weak": {
+                "Ryze": "60.19%",
+                "LeBlanc": "60.00%",
+                "Akali": "56.14%"
+            }
+        }
+    },
+    "Aphelios": {
+        "bottom": {
+            "strong": {
+                "Varus": "37.18%",
+                "Kog'Maw": "37.31%",
+                "Jinx": "39.35%"
+            },
+            "weak": {
+                "Sivir": "52.68%",
+                "Kalista": "52.66%",
+                "Ezreal": "48.38%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Yasuo": "42.39%",
+                "Heimerdinger": "44.12%",
+                "Swain": "44.14%"
+            },
+            "weak": {
+                "Varus": "51.74%",
+                "Aphelios": "51.62%",
+                "Kalista": "51.15%"
+            }
+        }
+    },
+    "Ashe": {
+        "bottom": {
+            "strong": {
+                "Swain": "36.90%",
+                "Twitch": "45.48%",
+                "Cassiopeia": "46.79%"
+            },
+            "weak": {
+                "Aphelios": "58.88%",
+                "Yasuo": "54.93%",
+                "Ezreal": "54.79%"
+            }
+        }
+    },
+    "Aurelion Sol": {
+        "middle": {
+            "strong": {
+                "Nocturne": "42.37%",
+                "Kassadin": "43.88%",
+                "Xerath": "45.45%"
+            },
+            "weak": {
+                "Irelia": "62.14%",
+                "Qiyana": "60.82%",
+                "Zed": "58.50%"
+            }
+        }
+    },
+    "Azir": {
+        "middle": {
+            "strong": {
+                "Xerath": "30.00%",
+                "Talon": "37.97%",
+                "Ahri": "39.37%"
+            },
+            "weak": {
+                "Ryze": "55.37%",
+                "Irelia": "54.69%",
+                "Akali": "53.80%"
+            }
+        }
+    },
+    "Bard": {
+        "support": {
+            "strong": {
+                "Zilean": "40.00%",
+                "Sona": "45.59%",
+                "Vel'Koz": "45.95%"
+            },
+            "weak": {
+                "Lux": "60.26%",
+                "Alistar": "56.41%",
+                "Yuumi": "55.75%"
+            }
+        }
+    },
+    "Blitzcrank": {
+        "support": {
+            "strong": {
+                "Shen": "46.29%",
+                "Shaco": "46.92%",
+                "Zilean": "48.28%"
+            },
+            "weak": {
+                "Volibear": "61.29%",
+                "Yuumi": "57.23%",
+                "Vel'Koz": "56.95%"
+            }
+        }
+    },
+    "Brand": {
+        "support": {
+            "strong": {
+                "Veigar": "35.00%",
+                "Xerath": "41.89%",
+                "Sona": "42.03%"
+            },
+            "weak": {
+                "Malphite": "65.81%",
+                "Braum": "58.16%",
+                "Senna": "55.48%"
+            }
+        }
+    },
+    "Braum": {
+        "support": {
+            "strong": {
+                "Zyra": "36.94%",
+                "Soraka": "38.43%",
+                "Shaco": "40.23%"
+            },
+            "weak": {
+                "Yuumi": "62.61%",
+                "Veigar": "53.70%",
+                "Xerath": "53.11%"
+            }
+        }
+    },
+    "Caitlyn": {
+        "bottom": {
+            "strong": {
+                "Swain": "41.67%",
+                "Cassiopeia": "47.04%",
+                "Jhin": "48.20%"
+            },
+            "weak": {
+                "Aphelios": "55.66%",
+                "Xayah": "54.26%",
+                "Draven": "54.24%"
+            }
+        }
+    },
+    "Camille": {
+        "top": {
+            "strong": {
+                "Lucian": "33.68%",
+                "Maokai": "44.74%",
+                "Rumble": "45.45%"
+            },
+            "weak": {
+                "Nocturne": "66.07%",
+                "Jayce": "65.75%",
+                "Irelia": "58.15%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Nasus": "38.17%",
+                "Warwick": "38.46%",
+                "Cho'Gath": "38.57%"
+            },
+            "weak": {
+                "Sylas": "65.15%",
+                "Pantheon": "56.20%",
+                "Yorick": "55.12%"
+            }
+        },
+        "jungle": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Cassiopeia": {
+        "middle": {
+            "strong": {
+                "Rumble": "39.62%",
+                "Heimerdinger": "40.91%",
+                "Vel'Koz": "41.25%"
+            },
+            "weak": {
+                "Aphelios": "65.82%",
+                "Neeko": "65.71%",
+                "Sylas": "58.82%"
+            }
+        },
+        "bottom": {
+            "strong": {
+                "Malzahar": "31.43%",
+                "Aatrox": "33.96%",
+                "Talon": "39.49%"
+            },
+            "weak": {
+                "Lux": "58.06%",
+                "Xerath": "57.14%",
+                "LeBlanc": "52.11%"
+            }
+        },
+        "top": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Cho'Gath": {
+        "top": {
+            "strong": {
+                "Vladimir": "43.08%",
+                "Renekton": "43.68%",
+                "Mordekaiser": "44.86%"
+            },
+            "weak": {
+                "Irelia": "61.43%",
+                "Yasuo": "60.00%",
+                "Darius": "57.29%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Gnar": "42.07%",
+                "Volibear": "42.68%",
+                "Cho'Gath": "42.71%"
+            },
+            "weak": {
+                "Sylas": "59.68%",
+                "Irelia": "56.10%",
+                "Sion": "54.84%"
+            }
+        }
+    },
+    "Corki": {},
+    "Darius": {
+        "top": {
+            "strong": {
+                "Gnar": "42.07%",
+                "Volibear": "42.68%",
+                "Cho'Gath": "42.71%"
+            },
+            "weak": {
+                "Sylas": "59.68%",
+                "Irelia": "56.10%",
+                "Sion": "54.84%"
+            }
+        }
+    },
+    "Diana": {
+        "middle": {
+            "strong": {
+                "Kled": "44.29%",
+                "Ziggs": "44.78%",
+                "Vladimir": "44.94%"
+            },
+            "weak": {
+                "Aphelios": "64.50%",
+                "Qiyana": "57.02%",
+                "Irelia": "55.60%"
+            }
+        },
+        "jungle": {
+            "strong": {},
+            "weak": {}
+        },
+        "top": {
+            "strong": {
+                "Nasus": "38.17%",
+                "Warwick": "38.46%",
+                "Cho'Gath": "38.57%"
+            },
+            "weak": {
+                "Sylas": "65.15%",
+                "Pantheon": "56.20%",
+                "Yorick": "55.12%"
+            }
+        }
+    },
+    "Draven": {
+        "bottom": {
+            "strong": {
+                "Caitlyn": "45.76%",
+                "Jinx": "46.73%",
+                "Xayah": "46.73%"
+            },
+            "weak": {
+                "Tristana": "59.09%",
+                "Sivir": "58.33%",
+                "Heimerdinger": "58.33%"
+            }
+        }
+    },
+    "Dr. Mundo": {
+        "jungle": {
+            "strong": {
+                "Vi": "43.85%",
+                "Warwick": "46.15%",
+                "Volibear": "47.17%"
+            },
+            "weak": {
+                "Kha'Zix": "62.68%",
+                "Karthus": "58.67%",
+                "Amumu": "57.08%"
+            }
+        },
+        "top": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Ekko": {
+        "jungle": {
+            "strong": {
+                "Udyr": "43.83%",
+                "Volibear": "43.85%",
+                "Ivern": "48.00%"
+            },
+            "weak": {
+                "Qiyana": "61.62%",
+                "Taliyah": "60.96%",
+                "Fiddlesticks": "58.10%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Soraka": "43.00%",
+                "Rakan": "44.06%",
+                "Nautilus": "45.09%"
+            },
+            "weak": {
+                "Alistar": "61.18%",
+                "Pyke": "59.15%",
+                "Vel'Koz": "58.02%"
+            }
+        }
+    },
+    "Elise": {
+        "jungle": {
+            "strong": {
+                "Ivern": "36.71%",
+                "Trundle": "44.16%",
+                "Camille": "44.66%"
+            },
+            "weak": {
+                "Udyr": "62.86%",
+                "Qiyana": "61.05%",
+                "Fiddlesticks": "57.66%"
+            }
+        }
+    },
+    "Evelynn": {
+        "jungle": {
+            "strong": {
+                "Vi": "37.61%",
+                "Rek'Sai": "39.33%",
+                "Rammus": "41.18%"
+            },
+            "weak": {
+                "Qiyana": "59.21%",
+                "Jax": "55.21%",
+                "Kha'Zix": "53.33%"
+            }
+        }
+    },
+    "Ezreal": {
+        "bottom": {
+            "strong": {
+                "Yasuo": "42.39%",
+                "Heimerdinger": "44.12%",
+                "Swain": "44.14%"
+            },
+            "weak": {
+                "Varus": "51.74%",
+                "Aphelios": "51.62%",
+                "Kalista": "51.15%"
+            }
+        }
+    },
+    "Fiddlesticks": {
+        "support": {
+            "strong": {
+                "Soraka": "43.00%",
+                "Rakan": "44.06%",
+                "Nautilus": "45.09%"
+            },
+            "weak": {
+                "Alistar": "61.18%",
+                "Pyke": "59.15%",
+                "Vel'Koz": "58.02%"
+            }
+        },
+        "jungle": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Fiora": {
+        "top": {
+            "strong": {
+                "Poppy": "43.03%",
+                "Quinn": "43.76%",
+                "Kayle": "44.16%"
+            },
+            "weak": {
+                "Urgot": "56.91%",
+                "Olaf": "56.21%",
+                "Hecarim": "55.75%"
+            }
+        }
+    },
+    "Fizz": {
+        "middle": {
+            "strong": {
+                "Heimerdinger": "36.36%",
+                "Anivia": "41.57%",
+                "Renekton": "45.24%"
+            },
+            "weak": {
+                "Aphelios": "67.57%",
+                "Jayce": "67.24%",
+                "Neeko": "64.63%"
+            }
+        }
+    },
+    "Galio": {
+        "middle": {
+            "strong": {
+                "Malzahar": "28.85%",
+                "Twisted Fate": "40.97%",
+                "Cassiopeia": "42.33%"
+            },
+            "weak": {
+                "Kassadin": "58.65%",
+                "Akali": "57.67%",
+                "Zoe": "56.86%"
+            }
+        },
+        "support": {
+            "strong": {
+                "Thresh": "47.95%"
+            },
+            "weak": {
+                "Thresh": "47.95%"
+            }
+        }
+    },
+    "Gangplank": {
+        "top": {
+            "strong": {
+                "Diana": "34.62%",
+                "Kayle": "40.00%",
+                "Quinn": "40.91%"
+            },
+            "weak": {
+                "Kennen": "60.61%",
+                "Heimerdinger": "60.00%",
+                "Pantheon": "58.46%"
+            }
+        }
+    },
+    "Garen": {
+        "top": {
+            "strong": {
+                "Hecarim": "32.76%",
+                "Maokai": "39.86%",
+                "Kayle": "41.01%"
+            },
+            "weak": {
+                "Warwick": "65.63%",
+                "Sylas": "65.45%",
+                "Olaf": "57.82%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Udyr": "41.90%",
+                "Trundle": "43.56%",
+                "Nunu & Willump": "45.12%"
+            },
+            "weak": {
+                "Qiyana": "63.48%",
+                "Aatrox": "61.79%",
+                "Shyvana": "57.94%"
+            }
+        }
+    },
+    "Gnar": {
+        "top": {
+            "strong": {
+                "Teemo": "37.04%",
+                "Ornn": "38.13%",
+                "Vladimir": "40.00%"
+            },
+            "weak": {
+                "Aatrox": "61.39%",
+                "Malphite": "58.82%",
+                "Darius": "57.93%"
+            }
+        }
+    },
+    "Gragas": {
+        "jungle": {
+            "strong": {
+                "Rammus": "40.66%",
+                "Vi": "40.72%",
+                "Taliyah": "43.04%"
+            },
+            "weak": {
+                "Pantheon": "57.53%",
+                "Volibear": "53.70%",
+                "Karthus": "52.73%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Graves": {
+        "jungle": {
+            "strong": {
+                "Rammus": "37.74%",
+                "Hecarim": "41.98%",
+                "Warwick": "42.34%"
+            },
+            "weak": {
+                "Qiyana": "66.23%",
+                "Sejuani": "57.69%",
+                "Diana": "57.67%"
+            }
+        }
+    },
+    "Hecarim": {
+        "jungle": {
+            "strong": {
+                "Nunu & Willump": "39.22%",
+                "Kha'Zix": "42.74%",
+                "Shyvana": "43.24%"
+            },
+            "weak": {
+                "Graves": "58.02%",
+                "Vi": "55.56%",
+                "Diana": "54.14%"
+            }
+        },
+        "top": {
+            "strong": {
+                "Tryndamere": "36.84%",
+                "Renekton": "38.31%",
+                "Kled": "38.71%"
+            },
+            "weak": {
+                "Gangplank": "65.38%",
+                "Malphite": "57.38%",
+                "Yorick": "56.63%"
+            }
+        }
+    },
+    "Heimerdinger": {
+        "bottom": {
+            "strong": {
+                "Draven": "41.67%",
+                "Yasuo": "43.02%",
+                "Varus": "44.94%"
+            },
+            "weak": {
+                "Kalista": "63.16%",
+                "Cassiopeia": "57.81%",
+                "Aphelios": "57.49%"
+            }
+        },
+        "top": {
+            "strong": {
+                "Ornn": "25.37%",
+                "Aatrox": "30.91%",
+                "Yasuo": "38.46%"
+            },
+            "weak": {
+                "Irelia": "51.67%",
+                "Darius": "47.62%",
+                "Ryze": "45.28%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Annie": "39.81%",
+                "Twisted Fate": "42.66%",
+                "Renekton": "43.70%"
+            },
+            "weak": {
+                "Quinn": "60.32%",
+                "Aphelios": "57.72%",
+                "Tristana": "55.00%"
+            }
+        }
+    },
+    "Illaoi": {
+        "top": {
+            "strong": {
+                "Nocturne": "38.46%",
+                "Vayne": "40.28%",
+                "Rumble": "40.38%"
+            },
+            "weak": {
+                "Olaf": "68.18%",
+                "Akali": "58.36%",
+                "Jax": "57.46%"
+            }
+        }
+    },
+    "Irelia": {
+        "top": {
+            "strong": {
+                "Nasus": "38.17%",
+                "Warwick": "38.46%",
+                "Cho'Gath": "38.57%"
+            },
+            "weak": {
+                "Sylas": "65.15%",
+                "Pantheon": "56.20%",
+                "Yorick": "55.12%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Volibear": "32.31%",
+                "Diana": "43.37%",
+                "Jax": "43.95%"
+            },
+            "weak": {
+                "Cassiopeia": "62.96%",
+                "Pantheon": "62.32%",
+                "Vladimir": "60.84%"
+            }
+        }
+    },
+    "Ivern": {
+        "jungle": {
+            "strong": {
+                "Master Yi": "40.63%",
+                "Olaf": "48.21%",
+                "Nidalee": "50.00%"
+            },
+            "weak": {
+                "Elise": "63.29%",
+                "Rek'Sai": "57.69%",
+                "Lee Sin": "52.92%"
+            }
+        }
+    },
+    "Janna": {
+        "support": {
+            "strong": {
+                "Sona": "43.33%",
+                "Fiddlesticks": "47.93%",
+                "Senna": "49.10%"
+            },
+            "weak": {
+                "Alistar": "58.08%",
+                "Brand": "57.45%",
+                "Karma": "56.84%"
+            }
+        }
+    },
+    "Jarvan IV": {
+        "jungle": {
+            "strong": {
+                "Camille": "41.30%",
+                "Vi": "45.53%",
+                "Rengar": "45.65%"
+            },
+            "weak": {
+                "Qiyana": "61.15%",
+                "Pantheon": "61.06%",
+                "Fiddlesticks": "60.76%"
+            }
+        }
+    },
+    "Jax": {
+        "top": {
+            "strong": {
+                "Kennen": "40.96%",
+                "Poppy": "41.76%",
+                "Illaoi": "42.54%"
+            },
+            "weak": {
+                "Olaf": "60.34%",
+                "Yasuo": "59.15%",
+                "Nocturne": "57.69%"
+            }
+        },
+        "jungle": {
+            "strong": {
+                "Camille": "38.60%",
+                "Ekko": "46.03%",
+                "Dr. Mundo": "46.43%"
+            },
+            "weak": {
+                "Qiyana": "65.42%",
+                "Aatrox": "61.63%",
+                "Rengar": "60.24%"
+            }
+        }
+    },
+    "Jayce": {
+        "top": {
+            "strong": {
+                "Camille": "34.25%",
+                "Kayle": "38.96%",
+                "Lucian": "39.44%"
+            },
+            "weak": {
+                "Irelia": "56.38%",
+                "Fiora": "55.76%",
+                "Ryze": "55.62%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Annie": "39.81%",
+                "Twisted Fate": "42.66%",
+                "Renekton": "43.70%"
+            },
+            "weak": {
+                "Quinn": "60.32%",
+                "Aphelios": "57.72%",
+                "Tristana": "55.00%"
+            }
+        }
+    },
+    "Jhin": {
+        "bottom": {
+            "strong": {
+                "Twitch": "46.92%",
+                "Cassiopeia": "48.59%",
+                "Vayne": "49.19%"
+            },
+            "weak": {
+                "Kalista": "56.17%",
+                "Aphelios": "55.65%",
+                "Xayah": "55.19%"
+            }
+        }
+    },
+    "Jinx": {
+        "bottom": {
+            "strong": {
+                "Swain": "41.82%",
+                "Twitch": "47.88%",
+                "Jhin": "48.06%"
+            },
+            "weak": {
+                "Aphelios": "60.65%",
+                "Kalista": "55.68%",
+                "Xayah": "55.29%"
+            }
+        }
+    },
+    "Kai'Sa": {
+        "bottom": {
+            "strong": {
+                "Miss Fortune": "44.94%",
+                "Kog'Maw": "45.27%",
+                "Swain": "46.07%"
+            },
+            "weak": {
+                "Aphelios": "52.65%",
+                "Ezreal": "50.90%",
+                "Vayne": "49.26%"
+            }
+        }
+    },
+    "Kalista": {
+        "bottom": {
+            "strong": {
+                "Heimerdinger": "36.84%",
+                "Vayne": "39.86%",
+                "Miss Fortune": "39.88%"
+            },
+            "weak": {
+                "Senna": "52.24%",
+                "Kai'Sa": "52.05%",
+                "Xayah": "50.75%"
+            }
+        }
+    },
+    "Karma": {
+        "support": {
+            "strong": {
+                "Nami": "41.05%",
+                "Nautilus": "42.29%",
+                "Janna": "43.16%"
+            },
+            "weak": {
+                "Xerath": "53.43%",
+                "Alistar": "53.33%",
+                "Soraka": "52.72%"
+            }
+        }
+    },
+    "Karthus": {
+        "jungle": {
+            "strong": {
+                "Xin Zhao": "37.18%",
+                "Dr. Mundo": "41.33%",
+                "Nunu & Willump": "41.54%"
+            },
+            "weak": {
+                "Kha'Zix": "65.22%",
+                "Rammus": "64.91%",
+                "Diana": "61.18%"
+            }
+        }
+    },
+    "Kassadin": {
+        "middle": {
+            "strong": {
+                "Mordekaiser": "37.70%",
+                "Galio": "41.35%",
+                "Vel'Koz": "42.86%"
+            },
+            "weak": {
+                "Aphelios": "67.31%",
+                "Viktor": "64.60%",
+                "Anivia": "60.28%"
+            }
+        },
+        "top": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Katarina": {
+        "middle": {
+            "strong": {
+                "Fizz": "40.18%",
+                "Garen": "41.80%",
+                "Vladimir": "42.38%"
+            },
+            "weak": {
+                "Aphelios": "58.82%",
+                "Irelia": "58.49%",
+                "Jayce": "57.14%"
+            }
+        }
+    },
+    "Kayle": {
+        "top": {
+            "strong": {
+                "Heimerdinger": "41.82%",
+                "Olaf": "43.33%",
+                "Kled": "43.70%"
+            },
+            "weak": {
+                "Shen": "61.97%",
+                "Jayce": "61.04%",
+                "Pantheon": "60.32%"
+            }
+        }
+    },
+    "Kayn": {
+        "jungle": {
+            "strong": {
+                "Karthus": "39.60%",
+                "Jax": "42.86%",
+                "Vi": "44.20%"
+            },
+            "weak": {
+                "Udyr": "61.82%",
+                "Aatrox": "60.32%",
+                "Kha'Zix": "57.14%"
+            }
+        }
+    },
+    "Kennen": {
+        "top": {
+            "strong": {
+                "Heimerdinger": "39.22%",
+                "Gangplank": "39.39%",
+                "Yasuo": "43.70%"
+            },
+            "weak": {
+                "Lucian": "64.89%",
+                "Vayne": "63.00%",
+                "Pantheon": "62.26%"
+            }
+        }
+    },
+    "Kha'Zix": {
+        "jungle": {
+            "strong": {
+                "Karthus": "34.78%",
+                "Dr. Mundo": "37.32%",
+                "Zac": "42.46%"
+            },
+            "weak": {
+                "Qiyana": "67.24%",
+                "Taliyah": "62.75%",
+                "Hecarim": "57.26%"
+            }
+        }
+    },
+    "Kindred": {
+        "jungle": {
+            "strong": {
+                "Dr. Mundo": "43.24%",
+                "Warwick": "43.31%",
+                "Shaco": "43.75%"
+            },
+            "weak": {
+                "Qiyana": "65.33%",
+                "Rek'Sai": "57.56%",
+                "Diana": "57.28%"
+            }
+        }
+    },
+    "Kled": {
+        "top": {
+            "strong": {
+                "Urgot": "35.09%",
+                "Nasus": "44.00%",
+                "Maokai": "44.07%"
+            },
+            "weak": {
+                "Diana": "61.29%",
+                "Pantheon": "59.72%",
+                "Vayne": "59.02%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Swain": "45.78%",
+                "Twitch": "46.18%",
+                "Ashe": "47.54%"
+            },
+            "weak": {
+                "Kalista": "60.14%",
+                "Ezreal": "55.10%",
+                "Aphelios": "54.69%"
+            }
+        }
+    },
+    "Kog'Maw": {
+        "bottom": {
+            "strong": {
+                "Tristana": "38.60%",
+                "Varus": "43.24%",
+                "Miss Fortune": "43.60%"
+            },
+            "weak": {
+                "Sivir": "63.24%",
+                "Aphelios": "62.69%",
+                "Kai'Sa": "54.73%"
+            }
+        }
+    },
+    "LeBlanc": {
+        "middle": {
+            "strong": {
+                "Annie": "40.00%",
+                "Heimerdinger": "41.67%",
+                "Rumble": "42.17%"
+            },
+            "weak": {
+                "Vel'Koz": "62.86%",
+                "Aphelios": "60.20%",
+                "Pantheon": "57.89%"
+            }
+        }
+    },
+    "Lee Sin": {
+        "jungle": {
+            "strong": {
+                "Vi": "44.22%",
+                "Fiddlesticks": "45.32%",
+                "Shyvana": "45.61%"
+            },
+            "weak": {
+                "Qiyana": "56.56%",
+                "Rengar": "53.39%",
+                "Diana": "53.22%"
+            }
+        }
+    },
+    "Leona": {
+        "support": {
+            "strong": {
+                "Neeko": "44.44%",
+                "Sona": "45.74%",
+                "Vel'Koz": "47.61%"
+            },
+            "weak": {
+                "Volibear": "62.60%",
+                "Shen": "60.47%",
+                "Yuumi": "59.04%"
+            }
+        }
+    },
+    "Lissandra": {
+        "middle": {
+            "strong": {
+                "Twisted Fate": "35.78%",
+                "Orianna": "44.44%",
+                "Cassiopeia": "44.55%"
+            },
+            "weak": {
+                "Qiyana": "60.61%",
+                "Akali": "57.06%",
+                "LeBlanc": "53.01%"
+            }
+        }
+    },
+    "Lucian": {
+        "bottom": {
+            "strong": {
+                "Swain": "43.88%",
+                "Twitch": "46.89%",
+                "Miss Fortune": "47.35%"
+            },
+            "weak": {
+                "Aphelios": "56.79%",
+                "Tristana": "53.52%",
+                "Varus": "52.82%"
+            }
+        },
+        "top": {
+            "strong": {},
+            "weak": {}
+        },
+        "middle": {
+            "strong": {
+                "Xayah": "45.14%",
+                "Jinx": "46.03%",
+                "Jhin": "46.58%"
+            },
+            "weak": {
+                "Aphelios": "62.82%",
+                "Cassiopeia": "61.19%",
+                "Kog'Maw": "56.76%"
+            }
+        }
+    },
+    "Lulu": {
+        "support": {
+            "strong": {
+                "Fiddlesticks": "44.03%",
+                "Brand": "45.00%",
+                "Zilean": "45.74%"
+            },
+            "weak": {
+                "Yuumi": "62.96%",
+                "Shaco": "59.87%",
+                "Xerath": "55.56%"
+            }
+        }
+    },
+    "Lux": {
+        "support": {
+            "strong": {
+                "Gragas": "38.10%",
+                "Bard": "39.74%",
+                "Tahm Kench": "41.18%"
+            },
+            "weak": {
+                "Neeko": "55.05%",
+                "Maokai": "51.28%",
+                "Fiddlesticks": "50.62%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Soraka": "43.00%",
+                "Rakan": "44.06%",
+                "Nautilus": "45.09%"
+            },
+            "weak": {
+                "Alistar": "61.18%",
+                "Pyke": "59.15%",
+                "Vel'Koz": "58.02%"
+            }
+        }
+    },
+    "Malphite": {
+        "top": {
+            "strong": {
+                "Gnar": "41.18%",
+                "Diana": "42.62%",
+                "Volibear": "44.23%"
+            },
+            "weak": {
+                "Pantheon": "64.00%",
+                "Vayne": "60.62%",
+                "Lucian": "60.12%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        },
+        "middle": {
+            "strong": {
+                "Swain": "43.88%",
+                "Twitch": "46.89%",
+                "Miss Fortune": "47.35%"
+            },
+            "weak": {
+                "Aphelios": "56.79%",
+                "Tristana": "53.52%",
+                "Varus": "52.82%"
+            }
+        }
+    },
+    "Malzahar": {
+        "middle": {
+            "strong": {
+                "Twisted Fate": "43.28%",
+                "Viktor": "43.40%",
+                "Xerath": "44.05%"
+            },
+            "weak": {
+                "Galio": "71.15%",
+                "Sylas": "68.57%",
+                "Akali": "57.92%"
+            }
+        }
+    },
+    "Maokai": {
+        "top": {
+            "strong": {
+                "Illaoi": "44.00%",
+                "Renekton": "45.00%",
+                "Mordekaiser": "48.57%"
+            },
+            "weak": {
+                "Quinn": "64.13%",
+                "Garen": "60.14%",
+                "Akali": "59.91%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Master Yi": {
+        "jungle": {
+            "strong": {
+                "Trundle": "42.27%",
+                "Zac": "45.45%",
+                "Rammus": "45.58%"
+            },
+            "weak": {
+                "Ivern": "59.38%",
+                "Qiyana": "58.33%",
+                "Shyvana": "57.62%"
+            }
+        }
+    },
+    "Miss Fortune": {
+        "bottom": {
+            "strong": {
+                "Swain": "45.33%",
+                "Yasuo": "45.67%",
+                "Jhin": "47.48%"
+            },
+            "weak": {
+                "Kalista": "60.12%",
+                "Aphelios": "58.91%",
+                "Kog'Maw": "56.40%"
+            }
+        }
+    },
+    "Wukong": {},
+    "Mordekaiser": {
+        "top": {
+            "strong": {
+                "Rengar": "46.06%",
+                "Kayle": "47.55%",
+                "Tryndamere": "48.01%"
+            },
+            "weak": {
+                "Urgot": "57.14%",
+                "Rumble": "56.70%",
+                "Shen": "56.67%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Kayle": "38.03%",
+                "Yasuo": "41.46%",
+                "Illaoi": "42.86%"
+            },
+            "weak": {
+                "Nasus": "59.38%",
+                "Pantheon": "58.82%",
+                "Akali": "56.12%"
+            }
+        }
+    },
+    "Morgana": {
+        "support": {
+            "strong": {
+                "Maokai": "42.28%",
+                "Soraka": "44.64%",
+                "Zyra": "44.75%"
+            },
+            "weak": {
+                "Gragas": "61.76%",
+                "Tahm Kench": "57.89%",
+                "Poppy": "56.67%"
+            }
+        }
+    },
+    "Nami": {
+        "support": {
+            "strong": {
+                "Maokai": "42.00%",
+                "Zyra": "45.99%",
+                "Rakan": "46.15%"
+            },
+            "weak": {
+                "Yuumi": "64.79%",
+                "Karma": "58.95%",
+                "Brand": "57.32%"
+            }
+        }
+    },
+    "Nasus": {
+        "top": {
+            "strong": {
+                "Shen": "40.63%",
+                "Gangplank": "45.68%",
+                "Dr. Mundo": "46.15%"
+            },
+            "weak": {
+                "Irelia": "61.83%",
+                "Vladimir": "60.49%",
+                "Singed": "56.94%"
+            }
+        }
+    },
+    "Nautilus": {
+        "support": {
+            "strong": {
+                "Shaco": "45.04%",
+                "Maokai": "45.24%",
+                "Janna": "45.65%"
+            },
+            "weak": {
+                "Gragas": "58.12%",
+                "Karma": "57.71%",
+                "Yuumi": "57.50%"
+            }
+        }
+    },
+    "Neeko": {
+        "middle": {
+            "strong": {
+                "Cassiopeia": "34.29%",
+                "Fizz": "35.37%",
+                "Talon": "43.48%"
+            },
+            "weak": {
+                "Akali": "59.84%",
+                "Zoe": "56.86%",
+                "Ryze": "54.69%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Nidalee": {
+        "jungle": {
+            "strong": {
+                "Shyvana": "39.78%",
+                "Shaco": "43.24%",
+                "Amumu": "43.73%"
+            },
+            "weak": {
+                "Qiyana": "64.35%",
+                "Pantheon": "59.42%",
+                "Sejuani": "58.33%"
+            }
+        }
+    },
+    "Nocturne": {
+        "jungle": {
+            "strong": {
+                "Camille": "38.60%",
+                "Ekko": "46.03%",
+                "Dr. Mundo": "46.43%"
+            },
+            "weak": {
+                "Qiyana": "65.42%",
+                "Aatrox": "61.63%",
+                "Rengar": "60.24%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Quinn": "42.86%",
+                "Kennen": "44.66%",
+                "Illaoi": "44.88%"
+            },
+            "weak": {
+                "Aatrox": "59.60%",
+                "Riven": "58.39%",
+                "Ryze": "58.36%"
+            }
+        },
+        "top": {
+            "strong": {
+                "Volibear": "36.26%",
+                "Kassadin": "40.15%",
+                "Rengar": "41.64%"
+            },
+            "weak": {
+                "Sylas": "57.47%",
+                "Warwick": "55.74%",
+                "Shen": "55.74%"
+            }
+        }
+    },
+    "Nunu & Willump": {
+        "jungle": {
+            "strong": {
+                "Volibear": "45.10%",
+                "Kindred": "45.30%",
+                "Jax": "45.65%"
+            },
+            "weak": {
+                "Hecarim": "60.78%",
+                "Karthus": "58.46%",
+                "Diana": "56.76%"
+            }
+        }
+    },
+    "Olaf": {
+        "jungle": {
+            "strong": {
+                "Udyr": "41.90%",
+                "Trundle": "43.56%",
+                "Nunu & Willump": "45.12%"
+            },
+            "weak": {
+                "Qiyana": "63.48%",
+                "Aatrox": "61.79%",
+                "Shyvana": "57.94%"
+            }
+        },
+        "top": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Orianna": {
+        "middle": {
+            "strong": {
+                "Xerath": "42.97%",
+                "Lucian": "43.30%",
+                "Malzahar": "43.81%"
+            },
+            "weak": {
+                "Aphelios": "64.20%",
+                "Jayce": "60.87%",
+                "Renekton": "58.82%"
+            }
+        }
+    },
+    "Ornn": {
+        "top": {
+            "strong": {
+                "Singed": "43.08%",
+                "Nocturne": "44.17%",
+                "Maokai": "45.00%"
+            },
+            "weak": {
+                "Gnar": "61.87%",
+                "Teemo": "57.90%",
+                "Cassiopeia": "57.80%"
+            }
+        }
+    },
+    "Pantheon": {
+        "top": {
+            "strong": {
+                "Malphite": "36.00%",
+                "Yorick": "37.68%",
+                "Kennen": "37.74%"
+            },
+            "weak": {
+                "Teemo": "54.78%",
+                "Darius": "53.27%",
+                "Rengar": "53.03%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Quinn": "42.86%",
+                "Kennen": "44.66%",
+                "Illaoi": "44.88%"
+            },
+            "weak": {
+                "Aatrox": "59.60%",
+                "Riven": "58.39%",
+                "Ryze": "58.36%"
+            }
+        },
+        "jungle": {
+            "strong": {
+                "Lee Sin": "30.00%"
+            },
+            "weak": {
+                "Lee Sin": "30.00%"
+            }
+        }
+    },
+    "Poppy": {
+        "top": {
+            "strong": {
+                "Vayne": "41.94%",
+                "Yorick": "42.17%",
+                "Camille": "42.48%"
+            },
+            "weak": {
+                "Irelia": "59.06%",
+                "Aatrox": "58.58%",
+                "Jax": "58.24%"
+            }
+        },
+        "jungle": {
+            "strong": {
+                "Vi": "42.55%",
+                "Shyvana": "43.28%",
+                "Evelynn": "44.79%"
+            },
+            "weak": {
+                "Diana": "61.78%",
+                "Kayn": "57.14%",
+                "Rek'Sai": "56.17%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Pyke": {
+        "support": {
+            "strong": {
+                "Zilean": "37.71%",
+                "Fiddlesticks": "40.85%",
+                "Malphite": "41.24%"
+            },
+            "weak": {
+                "Zac": "63.01%",
+                "Yuumi": "56.19%",
+                "Shen": "55.75%"
+            }
+        }
+    },
+    "Qiyana": {
+        "middle": {
+            "strong": {
+                "Mordekaiser": "36.14%",
+                "Aurelion Sol": "39.18%",
+                "Lissandra": "39.39%"
+            },
+            "weak": {
+                "Sylas": "57.39%",
+                "Annie": "55.56%",
+                "Azir": "54.84%"
+            }
+        },
+        "jungle": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Quinn": {
+        "top": {
+            "strong": {
+                "Maokai": "35.87%",
+                "Rumble": "42.67%",
+                "Kennen": "44.56%"
+            },
+            "weak": {
+                "Riven": "60.69%",
+                "Vayne": "60.51%",
+                "Gangplank": "59.09%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Diana": "34.62%",
+                "Kayle": "40.00%",
+                "Quinn": "40.91%"
+            },
+            "weak": {
+                "Kennen": "60.61%",
+                "Heimerdinger": "60.00%",
+                "Pantheon": "58.46%"
+            }
+        }
+    },
+    "Rakan": {
+        "support": {
+            "strong": {
+                "Taric": "38.03%",
+                "Zilean": "38.14%",
+                "Neeko": "42.11%"
+            },
+            "weak": {
+                "Yuumi": "58.33%",
+                "Alistar": "56.96%",
+                "Karma": "56.74%"
+            }
+        }
+    },
+    "Rammus": {
+        "jungle": {
+            "strong": {
+                "Karthus": "35.09%",
+                "Rek'Sai": "40.80%",
+                "Ekko": "46.84%"
+            },
+            "weak": {
+                "Sejuani": "67.31%",
+                "Pantheon": "62.50%",
+                "Graves": "62.26%"
+            }
+        }
+    },
+    "Rek'Sai": {
+        "jungle": {
+            "strong": {
+                "Karthus": "40.31%",
+                "Ivern": "42.31%",
+                "Kindred": "42.44%"
+            },
+            "weak": {
+                "Evelynn": "60.67%",
+                "Rengar": "59.42%",
+                "Rammus": "59.20%"
+            }
+        }
+    },
+    "Renekton": {
+        "top": {
+            "strong": {
+                "Nocturne": "38.67%",
+                "Kayle": "44.20%",
+                "Ornn": "44.75%"
+            },
+            "weak": {
+                "Diana": "61.69%",
+                "Hecarim": "58.23%",
+                "Cho'Gath": "56.32%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Vladimir": "43.08%",
+                "Renekton": "43.68%",
+                "Mordekaiser": "44.86%"
+            },
+            "weak": {
+                "Irelia": "61.43%",
+                "Yasuo": "60.00%",
+                "Darius": "57.29%"
+            }
+        }
+    },
+    "Rengar": {
+        "top": {
+            "strong": {
+                "Quinn": "42.86%",
+                "Kennen": "44.66%",
+                "Illaoi": "44.88%"
+            },
+            "weak": {
+                "Aatrox": "59.60%",
+                "Riven": "58.39%",
+                "Ryze": "58.36%"
+            }
+        },
+        "jungle": {
+            "strong": {
+                "Lee Sin": "30.00%"
+            },
+            "weak": {
+                "Lee Sin": "30.00%"
+            }
+        }
+    },
+    "Riven": {
+        "top": {
+            "strong": {
+                "Quinn": "39.31%",
+                "Vayne": "41.58%",
+                "Rengar": "41.61%"
+            },
+            "weak": {
+                "Aatrox": "60.32%",
+                "Jayce": "58.46%",
+                "Yasuo": "55.34%"
+            }
+        }
+    },
+    "Rumble": {
+        "top": {
+            "strong": {
+                "Kayle": "40.38%",
+                "Mordekaiser": "43.30%",
+                "Vladimir": "43.69%"
+            },
+            "weak": {
+                "Illaoi": "59.62%",
+                "Quinn": "57.33%",
+                "Yasuo": "56.79%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Quinn": "42.06%",
+                "Aurelion Sol": "43.19%",
+                "Mordekaiser": "43.64%"
+            },
+            "weak": {
+                "Vel'Koz": "61.17%",
+                "Tristana": "60.58%",
+                "Aphelios": "58.22%"
+            }
+        }
+    },
+    "Ryze": {
+        "middle": {
+            "strong": {
+                "Annie": "39.81%",
+                "Twisted Fate": "42.66%",
+                "Renekton": "43.70%"
+            },
+            "weak": {
+                "Quinn": "60.32%",
+                "Aphelios": "57.72%",
+                "Tristana": "55.00%"
+            }
+        },
+        "top": {
+            "strong": {
+                "Darius": "53.85%"
+            },
+            "weak": {
+                "Darius": "53.85%"
+            }
+        }
+    },
+    "Sejuani": {
+        "jungle": {
+            "strong": {
+                "Rammus": "32.69%",
+                "Zac": "40.60%",
+                "Nidalee": "41.67%"
+            },
+            "weak": {
+                "Olaf": "54.01%",
+                "Diana": "53.85%",
+                "Xin Zhao": "53.33%"
+            }
+        }
+    },
+    "Senna": {
+        "support": {
+            "strong": {
+                "Zyra": "43.76%",
+                "Brand": "44.52%",
+                "Taric": "45.24%"
+            },
+            "weak": {
+                "Tahm Kench": "64.36%",
+                "Neeko": "59.46%",
+                "Shen": "59.09%"
+            }
+        },
+        "bottom": {
+            "strong": {
+                "Kayle": "38.03%",
+                "Yasuo": "41.46%",
+                "Illaoi": "42.86%"
+            },
+            "weak": {
+                "Nasus": "59.38%",
+                "Pantheon": "58.82%",
+                "Akali": "56.12%"
+            }
+        }
+    },
+    "Shaco": {
+        "jungle": {
+            "strong": {
+                "Volibear": "36.84%",
+                "Fiddlesticks": "40.74%",
+                "Dr. Mundo": "44.40%"
+            },
+            "weak": {
+                "Qiyana": "66.22%",
+                "Aatrox": "59.21%",
+                "Evelynn": "58.41%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Shen": {
+        "top": {
+            "strong": {
+                "Kayle": "38.03%",
+                "Yasuo": "41.46%",
+                "Illaoi": "42.86%"
+            },
+            "weak": {
+                "Nasus": "59.38%",
+                "Pantheon": "58.82%",
+                "Akali": "56.12%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Shyvana": {
+        "jungle": {
+            "strong": {
+                "Olaf": "42.06%",
+                "Master Yi": "42.38%",
+                "Amumu": "43.85%"
+            },
+            "weak": {
+                "Nidalee": "60.22%",
+                "Diana": "58.41%",
+                "Hecarim": "56.76%"
+            }
+        }
+    },
+    "Singed": {
+        "top": {
+            "strong": {
+                "Nasus": "43.06%",
+                "Gangplank": "45.54%",
+                "Darius": "45.63%"
+            },
+            "weak": {
+                "Ornn": "56.92%",
+                "Irelia": "56.67%",
+                "Riven": "56.00%"
+            }
+        }
+    },
+    "Sion": {
+        "top": {
+            "strong": {
+                "Darius": "45.16%",
+                "Ornn": "45.35%",
+                "Akali": "48.72%"
+            },
+            "weak": {
+                "Yasuo": "54.72%",
+                "Garen": "53.97%",
+                "Teemo": "52.38%"
+            }
+        }
+    },
+    "Sivir": {
+        "bottom": {
+            "strong": {
+                "Kog'Maw": "36.76%",
+                "Draven": "41.67%",
+                "Jhin": "46.29%"
+            },
+            "weak": {
+                "Kalista": "56.96%",
+                "Twitch": "56.67%",
+                "Tristana": "54.62%"
+            }
+        }
+    },
+    "Skarner": {},
+    "Sona": {
+        "support": {
+            "strong": {
+                "Zyra": "43.10%",
+                "Malphite": "44.83%",
+                "Vel'Koz": "46.15%"
+            },
+            "weak": {
+                "Brand": "57.97%",
+                "Janna": "56.67%",
+                "Pyke": "56.25%"
+            }
+        }
+    },
+    "Soraka": {
+        "support": {
+            "strong": {
+                "Zyra": "44.36%",
+                "Bard": "45.79%",
+                "Karma": "47.28%"
+            },
+            "weak": {
+                "Taric": "65.00%",
+                "Braum": "61.57%",
+                "Malphite": "59.70%"
+            }
+        }
+    },
+    "Swain": {
+        "support": {
+            "strong": {
+                "Maokai": "36.73%",
+                "Veigar": "40.38%",
+                "Taric": "45.21%"
+            },
+            "weak": {
+                "Tahm Kench": "70.15%",
+                "Galio": "68.75%",
+                "Neeko": "59.42%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Cassiopeia": "34.29%",
+                "Fizz": "35.37%",
+                "Talon": "43.48%"
+            },
+            "weak": {
+                "Akali": "59.84%",
+                "Zoe": "56.86%",
+                "Ryze": "54.69%"
+            }
+        },
+        "bottom": {
+            "strong": {
+                "Annie": "39.81%",
+                "Twisted Fate": "42.66%",
+                "Renekton": "43.70%"
+            },
+            "weak": {
+                "Quinn": "60.32%",
+                "Aphelios": "57.72%",
+                "Tristana": "55.00%"
+            }
+        }
+    },
+    "Sylas": {
+        "middle": {
+            "strong": {
+                "Malzahar": "31.43%",
+                "Aatrox": "33.96%",
+                "Talon": "39.49%"
+            },
+            "weak": {
+                "Lux": "58.06%",
+                "Xerath": "57.14%",
+                "LeBlanc": "52.11%"
+            }
+        },
+        "top": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Syndra": {
+        "middle": {
+            "strong": {
+                "Galio": "45.90%",
+                "Irelia": "46.39%",
+                "Nocturne": "46.40%"
+            },
+            "weak": {
+                "Akali": "59.45%",
+                "Anivia": "58.18%",
+                "Lux": "57.14%"
+            }
+        }
+    },
+    "Tahm Kench": {
+        "support": {
+            "strong": {
+                "Swain": "29.85%",
+                "Senna": "35.64%",
+                "Morgana": "42.11%"
+            },
+            "weak": {
+                "Lux": "58.82%",
+                "Pyke": "49.26%",
+                "Rakan": "49.06%"
+            }
+        }
+    },
+    "Taliyah": {
+        "jungle": {
+            "strong": {
+                "Kha'Zix": "37.25%",
+                "Ekko": "39.04%",
+                "Olaf": "43.80%"
+            },
+            "weak": {
+                "Diana": "57.89%",
+                "Gragas": "56.96%",
+                "Kayn": "55.13%"
+            }
+        }
+    },
+    "Talon": {
+        "middle": {
+            "strong": {
+                "Kled": "32.84%",
+                "Rumble": "39.13%",
+                "Nocturne": "41.35%"
+            },
+            "weak": {
+                "Azir": "62.03%",
+                "Sylas": "60.51%",
+                "Neeko": "56.52%"
+            }
+        }
+    },
+    "Taric": {
+        "support": {
+            "strong": {
+                "Soraka": "35.00%",
+                "Morgana": "44.44%",
+                "Leona": "47.56%"
+            },
+            "weak": {
+                "Rakan": "61.97%",
+                "Alistar": "58.46%",
+                "Thresh": "55.92%"
+            }
+        }
+    },
+    "Teemo": {
+        "top": {
+            "strong": {
+                "Heimerdinger": "40.63%",
+                "Ornn": "42.10%",
+                "Nocturne": "42.86%"
+            },
+            "weak": {
+                "Gnar": "62.96%",
+                "Urgot": "59.49%",
+                "Tryndamere": "57.03%"
+            }
+        }
+    },
+    "Thresh": {
+        "support": {
+            "strong": {
+                "Taric": "44.08%",
+                "Maokai": "44.42%",
+                "Shaco": "44.92%"
+            },
+            "weak": {
+                "Tahm Kench": "54.92%",
+                "Gragas": "53.28%",
+                "Yuumi": "53.28%"
+            }
+        }
+    },
+    "Tristana": {
+        "bottom": {
+            "strong": {
+                "Cassiopeia": "36.07%",
+                "Senna": "39.58%",
+                "Draven": "40.91%"
+            },
+            "weak": {
+                "Kog'Maw": "61.40%",
+                "Kalista": "60.00%",
+                "Aphelios": "56.36%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Varus": "37.18%",
+                "Kog'Maw": "37.31%",
+                "Jinx": "39.35%"
+            },
+            "weak": {
+                "Sivir": "52.68%",
+                "Kalista": "52.66%",
+                "Ezreal": "48.38%"
+            }
+        }
+    },
+    "Trundle": {
+        "jungle": {
+            "strong": {
+                "Nocturne": "41.94%",
+                "Ekko": "45.24%",
+                "Jarvan IV": "48.05%"
+            },
+            "weak": {
+                "Master Yi": "57.73%",
+                "Olaf": "56.44%",
+                "Elise": "55.84%"
+            }
+        }
+    },
+    "Tryndamere": {
+        "top": {
+            "strong": {
+                "Malphite": "41.81%",
+                "Poppy": "41.94%",
+                "Teemo": "42.97%"
+            },
+            "weak": {
+                "Diana": "63.16%",
+                "Lucian": "61.84%",
+                "Vladimir": "54.92%"
+            }
+        }
+    },
+    "Twisted Fate": {
+        "middle": {
+            "strong": {
+                "Quinn": "40.00%",
+                "Vel'Koz": "40.68%",
+                "Aurelion Sol": "43.38%"
+            },
+            "weak": {
+                "Lissandra": "64.22%",
+                "Galio": "59.03%",
+                "Garen": "58.46%"
+            }
+        }
+    },
+    "Twitch": {
+        "bottom": {
+            "strong": {
+                "Yasuo": "42.42%",
+                "Sivir": "43.33%",
+                "Heimerdinger": "45.28%"
+            },
+            "weak": {
+                "Aphelios": "56.92%",
+                "Xayah": "56.77%",
+                "Ashe": "54.52%"
+            }
+        }
+    },
+    "Udyr": {
+        "jungle": {
+            "strong": {
+                "Elise": "37.14%",
+                "Zac": "38.00%",
+                "Kayn": "38.18%"
+            },
+            "weak": {
+                "Olaf": "58.10%",
+                "Ekko": "56.17%",
+                "Master Yi": "53.02%"
+            }
+        }
+    },
+    "Urgot": {
+        "top": {
+            "strong": {
+                "Teemo": "40.51%",
+                "Vayne": "41.27%",
+                "Yorick": "42.86%"
+            },
+            "weak": {
+                "Kled": "64.91%",
+                "Garen": "56.69%",
+                "Tryndamere": "56.36%"
+            }
+        }
+    },
+    "Varus": {
+        "bottom": {
+            "strong": {
+                "Xayah": "45.14%",
+                "Jinx": "46.03%",
+                "Jhin": "46.58%"
+            },
+            "weak": {
+                "Aphelios": "62.82%",
+                "Cassiopeia": "61.19%",
+                "Kog'Maw": "56.76%"
+            }
+        }
+    },
+    "Vayne": {
+        "bottom": {
+            "strong": {
+                "Swain": "45.78%",
+                "Twitch": "46.18%",
+                "Ashe": "47.54%"
+            },
+            "weak": {
+                "Kalista": "60.14%",
+                "Ezreal": "55.10%",
+                "Aphelios": "54.69%"
+            }
+        },
+        "top": {
+            "strong": {
+                "Ornn": "25.37%",
+                "Aatrox": "30.91%",
+                "Yasuo": "38.46%"
+            },
+            "weak": {
+                "Irelia": "51.67%",
+                "Darius": "47.62%",
+                "Ryze": "45.28%"
+            }
+        }
+    },
+    "Veigar": {
+        "middle": {
+            "strong": {
+                "Lucian": "41.94%",
+                "Ekko": "46.77%",
+                "Katarina": "46.81%"
+            },
+            "weak": {
+                "Talon": "57.25%",
+                "Lux": "55.26%",
+                "Ahri": "55.12%"
+            }
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Vel'Koz": {
+        "support": {
+            "strong": {
+                "Shaco": "41.67%",
+                "Fiddlesticks": "41.98%",
+                "Alistar": "42.86%"
+            },
+            "weak": {
+                "Zyra": "57.43%",
+                "Braum": "57.00%",
+                "Malphite": "55.56%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Gnar": "41.18%",
+                "Diana": "42.62%",
+                "Volibear": "44.23%"
+            },
+            "weak": {
+                "Pantheon": "64.00%",
+                "Vayne": "60.62%",
+                "Lucian": "60.12%"
+            }
+        }
+    },
+    "Vi": {
+        "jungle": {
+            "strong": {
+                "Amumu": "43.87%",
+                "Hecarim": "44.44%",
+                "Diana": "47.27%"
+            },
+            "weak": {
+                "Evelynn": "62.39%",
+                "Gragas": "59.28%",
+                "Jax": "57.45%"
+            }
+        }
+    },
+    "Viktor": {
+        "middle": {
+            "strong": {
+                "Kassadin": "35.40%",
+                "Nocturne": "44.64%",
+                "Katarina": "45.74%"
+            },
+            "weak": {
+                "Ekko": "63.46%",
+                "Lucian": "60.38%",
+                "Zoe": "57.75%"
+            }
+        },
+        "top": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Vladimir": {
+        "top": {
+            "strong": {
+                "Kassadin": "39.00%",
+                "Yorick": "39.16%",
+                "Nasus": "39.51%"
+            },
+            "weak": {
+                "Gnar": "60.00%",
+                "Vayne": "60.00%",
+                "Gangplank": "57.42%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Diana": "34.62%",
+                "Kayle": "40.00%",
+                "Quinn": "40.91%"
+            },
+            "weak": {
+                "Kennen": "60.61%",
+                "Heimerdinger": "60.00%",
+                "Pantheon": "58.46%"
+            }
+        }
+    },
+    "Volibear": {
+        "top": {
+            "strong": {
+                "Yasuo": "44.62%",
+                "Ornn": "45.12%",
+                "Garen": "45.87%"
+            },
+            "weak": {
+                "Yorick": "67.69%",
+                "Ryze": "63.74%",
+                "Darius": "57.32%"
+            }
+        },
+        "jungle": {
+            "strong": {},
+            "weak": {}
+        },
+        "support": {
+            "strong": {},
+            "weak": {}
+        }
+    },
+    "Warwick": {
+        "jungle": {
+            "strong": {
+                "Amumu": "46.77%",
+                "Sejuani": "47.06%",
+                "Olaf": "47.07%"
+            },
+            "weak": {
+                "Qiyana": "71.70%",
+                "Diana": "61.65%",
+                "Aatrox": "60.00%"
+            }
+        },
+        "top": {
+            "strong": {
+                "Gnar": "38.61%",
+                "Nocturne": "38.79%",
+                "Riven": "39.68%"
+            },
+            "weak": {
+                "Warwick": "60.00%",
+                "Cassiopeia": "53.57%",
+                "Vladimir": "52.56%"
+            }
+        }
+    },
+    "Xayah": {
+        "bottom": {
+            "strong": {
+                "Twitch": "43.23%",
+                "Cassiopeia": "44.52%",
+                "Heimerdinger": "44.55%"
+            },
+            "weak": {
+                "Varus": "54.86%",
+                "Kog'Maw": "53.63%",
+                "Draven": "53.27%"
+            }
+        }
+    },
+    "Xerath": {
+        "support": {
+            "strong": {
+                "Janna": "44.40%",
+                "Lulu": "44.44%",
+                "Blitzcrank": "45.57%"
+            },
+            "weak": {
+                "Veigar": "62.37%",
+                "Brand": "58.11%",
+                "Lux": "55.49%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Gragas": "38.10%",
+                "Bard": "39.74%",
+                "Tahm Kench": "41.18%"
+            },
+            "weak": {
+                "Neeko": "55.05%",
+                "Maokai": "51.28%",
+                "Fiddlesticks": "50.62%"
+            }
+        }
+    },
+    "Xin Zhao": {
+        "jungle": {
+            "strong": {
+                "Rammus": "42.11%",
+                "Jarvan IV": "45.49%",
+                "Shyvana": "45.54%"
+            },
+            "weak": {
+                "Qiyana": "76.92%",
+                "Volibear": "64.00%",
+                "Karthus": "62.82%"
+            }
+        }
+    },
+    "Yasuo": {
+        "middle": {
+            "strong": {
+                "Quinn": "42.06%",
+                "Aurelion Sol": "43.19%",
+                "Mordekaiser": "43.64%"
+            },
+            "weak": {
+                "Vel'Koz": "61.17%",
+                "Tristana": "60.58%",
+                "Aphelios": "58.22%"
+            }
+        },
+        "top": {
+            "strong": {
+                "Ornn": "25.37%",
+                "Aatrox": "30.91%",
+                "Yasuo": "38.46%"
+            },
+            "weak": {
+                "Irelia": "51.67%",
+                "Darius": "47.62%",
+                "Ryze": "45.28%"
+            }
+        },
+        "bottom": {
+            "strong": {
+                "Annie": "39.81%",
+                "Twisted Fate": "42.66%",
+                "Renekton": "43.70%"
+            },
+            "weak": {
+                "Quinn": "60.32%",
+                "Aphelios": "57.72%",
+                "Tristana": "55.00%"
+            }
+        }
+    },
+    "Yorick": {
+        "top": {
+            "strong": {
+                "Volibear": "32.31%",
+                "Diana": "43.37%",
+                "Jax": "43.95%"
+            },
+            "weak": {
+                "Cassiopeia": "62.96%",
+                "Pantheon": "62.32%",
+                "Vladimir": "60.84%"
+            }
+        }
+    },
+    "Yuumi": {
+        "support": {
+            "strong": {
+                "Zilean": "34.21%",
+                "Nami": "35.21%",
+                "Lulu": "37.04%"
+            },
+            "weak": {
+                "Malphite": "58.43%",
+                "Vel'Koz": "56.98%",
+                "Lux": "51.47%"
+            }
+        }
+    },
+    "Zac": {
+        "jungle": {
+            "strong": {
+                "Camille": "43.94%",
+                "Dr. Mundo": "47.17%",
+                "Hecarim": "48.23%"
+            },
+            "weak": {
+                "Rengar": "67.78%",
+                "Udyr": "62.00%",
+                "Fiddlesticks": "60.34%"
+            }
+        },
+        "support": {
+            "strong": {
+                "Soraka": "43.00%",
+                "Rakan": "44.06%",
+                "Nautilus": "45.09%"
+            },
+            "weak": {
+                "Alistar": "61.18%",
+                "Pyke": "59.15%",
+                "Vel'Koz": "58.02%"
+            }
+        }
+    },
+    "Zed": {
+        "middle": {
+            "strong": {
+                "Kled": "33.33%",
+                "Vel'Koz": "40.35%",
+                "Heimerdinger": "40.96%"
+            },
+            "weak": {
+                "Aphelios": "57.58%",
+                "Azir": "56.90%",
+                "Lucian": "54.90%"
+            }
+        }
+    },
+    "Ziggs": {
+        "middle": {
+            "strong": {
+                "Ahri": "46.38%",
+                "LeBlanc": "48.28%",
+                "Ryze": "48.65%"
+            },
+            "weak": {
+                "Talon": "56.14%",
+                "Diana": "55.22%",
+                "Irelia": "54.10%"
+            }
+        }
+    },
+    "Zilean": {
+        "support": {
+            "strong": {
+                "Janna": "45.22%",
+                "Soraka": "46.59%",
+                "Braum": "47.00%"
+            },
+            "weak": {
+                "Yuumi": "65.79%",
+                "Malphite": "65.22%",
+                "Pyke": "62.29%"
+            }
+        },
+        "middle": {
+            "strong": {
+                "Zilean": "37.71%",
+                "Fiddlesticks": "40.85%",
+                "Malphite": "41.24%"
+            },
+            "weak": {
+                "Zac": "63.01%",
+                "Yuumi": "56.19%",
+                "Shen": "55.75%"
+            }
+        }
+    },
+    "Zoe": {
+        "middle": {
+            "strong": {
+                "Anivia": "41.18%",
+                "Viktor": "42.25%",
+                "Galio": "43.14%"
+            },
+            "weak": {
+                "Aatrox": "66.00%",
+                "LeBlanc": "55.31%",
+                "Lux": "55.21%"
+            }
+        }
+    },
+    "Zyra": {
+        "support": {
+            "strong": {
+                "Zilean": "40.74%",
+                "Alistar": "41.58%",
+                "Vel'Koz": "42.57%"
+            },
+            "weak": {
+                "Braum": "63.06%",
+                "Sona": "56.90%",
+                "Senna": "56.24%"
+            }
+        }
+    }
+}

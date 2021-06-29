@@ -1,0 +1,23 @@
+{
+    "API_KEY": "",
+    "config_path": "../data/constants/config.json",
+    "endpoints_path": "../data/constants/endpoints.json",
+    "gamemodes_path": "../data/constants/gameModes.json",
+    "gametypes_path": "../data/constants/gameTypes.json",
+    "maps_path": "../data/constants/maps.json",
+    "platforms_path": "../data/constants/platformRoutingValues.json",
+    "queues_path": "../data/constants/queues.json",
+    "regions_path": "../data/constants/regionalRoutingValues.json",
+    "seasons_path": "../data/constants/seasons.json",
+    "wanplus_df_path": "../data/constants/wanplusDataFrameColumns.json",
+    "wanplus_event_path": "../data/constants/wanplusEvents.json",
+    "wanplus_team_path": "../data/constants/wanplusTeamConfig.json",
+    "wanplus_player_path": "../data/constants/wanplusPlayerConfig.json",
+    "wanplus_hero_path": "../data/constants/wanplusHeroConfig.json",
+    "opgg_c_rank_path": "../data/constants/opggChampionRanks.json",
+    "opgg_summoner_path": "../data/constants/opggSummoner.json",
+    "data_path": "../data",
+    "champion_search_path": "../data/dragontail-9.24.2/9.24.2/data/en_US/champion.json",
+    "champion_counters_path": "../data/championCounters.json",
+    "champion_img_path": "../data/dragontail-9.24.2/9.24.2/img/champion"
+}

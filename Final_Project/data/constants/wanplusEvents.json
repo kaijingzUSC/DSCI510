@@ -1,0 +1,982 @@
+{
+    "0": {
+        "eid": "898",
+        "name": "2019德玛西亚杯",
+        "eventtype": "1"
+    },
+    "3": {
+        "eid": "887",
+        "name": "2019LPL全明星周末",
+        "eventtype": "1"
+    },
+    "4": {
+        "eid": "870",
+        "name": "2019 S9全球总决赛",
+        "eventtype": "1"
+    },
+    "5": {
+        "eid": "869",
+        "name": "2019 S9全球总决赛 入围赛",
+        "eventtype": "1"
+    },
+    "6": {
+        "eid": "861",
+        "name": "2019 LEC S9资格赛",
+        "eventtype": "1"
+    },
+    "7": {
+        "eid": "867",
+        "name": "2020 LCK 春季升降级赛",
+        "eventtype": "1"
+    },
+    "8": {
+        "eid": "863",
+        "name": "2019 LPL S9资格赛",
+        "eventtype": "1"
+    },
+    "9": {
+        "eid": "860",
+        "name": "2019 LCS S9资格赛",
+        "eventtype": "1"
+    },
+    "10": {
+        "eid": "862",
+        "name": "2019 LMS S9资格赛",
+        "eventtype": "1"
+    },
+    "11": {
+        "eid": "859",
+        "name": "2019 LCK S9资格赛",
+        "eventtype": "1"
+    },
+    "12": {
+        "eid": "830",
+        "name": "2019 亚洲对抗赛",
+        "eventtype": "1"
+    },
+    "13": {
+        "eid": "836",
+        "name": "2019 欧美对抗赛",
+        "eventtype": "1"
+    },
+    "14": {
+        "eid": "829",
+        "name": "2019 LDL 夏季赛",
+        "eventtype": "1"
+    },
+    "15": {
+        "eid": "826",
+        "name": "2019 LMS 夏季赛",
+        "eventtype": "1"
+    },
+    "16": {
+        "eid": "822",
+        "name": "2019 LEC 夏季赛",
+        "eventtype": "1"
+    },
+    "17": {
+        "eid": "819",
+        "name": "2019 LCK 夏季赛",
+        "eventtype": "1"
+    },
+    "18": {
+        "eid": "820",
+        "name": "2019 LCS 夏季赛",
+        "eventtype": "1"
+    },
+    "19": {
+        "eid": "817",
+        "name": "2019 LPL 夏季赛",
+        "eventtype": "1"
+    },
+    "20": {
+        "eid": "815",
+        "name": "2019NESTOB全国电子竞技大赛",
+        "eventtype": "1"
+    },
+    "21": {
+        "eid": "811",
+        "name": "2019 MSI 季中冠军赛",
+        "eventtype": "1"
+    },
+    "22": {
+        "eid": "808",
+        "name": "2019 MSI 入围赛",
+        "eventtype": "1"
+    },
+    "23": {
+        "eid": "805",
+        "name": "2019NEST全国电子竞技大赛",
+        "eventtype": "1"
+    },
+    "24": {
+        "eid": "803",
+        "name": "2019LCK春季升降级赛",
+        "eventtype": "1"
+    },
+    "25": {
+        "eid": "791",
+        "name": "2019 LDL 春季赛",
+        "eventtype": "1"
+    },
+    "26": {
+        "eid": "761",
+        "name": "2019 LCS 春季赛",
+        "eventtype": "1"
+    },
+    "27": {
+        "eid": "760",
+        "name": "2019 LEC 春季赛",
+        "eventtype": "1"
+    },
+    "28": {
+        "eid": "762",
+        "name": "2019 LMS 春季赛",
+        "eventtype": "1"
+    },
+    "29": {
+        "eid": "759",
+        "name": "2019 LCK 春季赛",
+        "eventtype": "1"
+    },
+    "30": {
+        "eid": "758",
+        "name": "2019 LPL 春季赛",
+        "eventtype": "1"
+    },
+    "31": {
+        "eid": "744",
+        "name": "2018 德玛西亚杯西安站",
+        "eventtype": "1"
+    },
+    "32": {
+        "eid": "750",
+        "name": "2018 韩国电竞协会杯",
+        "eventtype": "1"
+    },
+    "33": {
+        "eid": "749",
+        "name": "2018 全明星1v1淘汰赛",
+        "eventtype": "1"
+    },
+    "34": {
+        "eid": "747",
+        "name": "2018 全明星赛",
+        "eventtype": "1"
+    },
+    "35": {
+        "eid": "713",
+        "name": "2018 NEST 全国电子竞技大赛",
+        "eventtype": "1"
+    },
+    "36": {
+        "eid": "717",
+        "name": "2018 S8全球总决赛",
+        "eventtype": "1"
+    },
+    "37": {
+        "eid": "716",
+        "name": "2018 S8全球总决赛 入围赛",
+        "eventtype": "1"
+    },
+    "38": {
+        "eid": "711",
+        "name": "2018 LMS S8资格赛",
+        "eventtype": "1"
+    },
+    "39": {
+        "eid": "712",
+        "name": "2019 LCK 夏季升降级赛",
+        "eventtype": "1"
+    },
+    "40": {
+        "eid": "709",
+        "name": "2018 LPL S8资格赛",
+        "eventtype": "1"
+    },
+    "41": {
+        "eid": "708",
+        "name": "2018 LCS欧洲S8资格赛",
+        "eventtype": "1"
+    },
+    "42": {
+        "eid": "707",
+        "name": "2018 LCS北美S8资格赛",
+        "eventtype": "1"
+    },
+    "43": {
+        "eid": "705",
+        "name": "2018 LCK S8资格赛",
+        "eventtype": "1"
+    },
+    "44": {
+        "eid": "660",
+        "name": "2018 欧美对抗赛",
+        "eventtype": "1"
+    },
+    "45": {
+        "eid": "655",
+        "name": "2018 亚洲对抗赛",
+        "eventtype": "1"
+    },
+    "46": {
+        "eid": "658",
+        "name": "LOL亚运会",
+        "eventtype": "1"
+    },
+    "47": {
+        "eid": "657",
+        "name": "2018 LDL 夏季赛",
+        "eventtype": "1"
+    },
+    "48": {
+        "eid": "648",
+        "name": "2018 LMS 夏季赛",
+        "eventtype": "1"
+    },
+    "49": {
+        "eid": "638",
+        "name": "2018 LCS 北美夏季赛",
+        "eventtype": "1"
+    },
+    "50": {
+        "eid": "643",
+        "name": "2018 LCS 欧洲夏季赛",
+        "eventtype": "1"
+    },
+    "51": {
+        "eid": "644",
+        "name": "2018 LCK夏季赛",
+        "eventtype": "1"
+    },
+    "52": {
+        "eid": "645",
+        "name": "2018 LPL夏季赛",
+        "eventtype": "1"
+    },
+    "53": {
+        "eid": "640",
+        "name": "德玛西亚杯珠海站",
+        "eventtype": "1"
+    },
+    "54": {
+        "eid": "626",
+        "name": "2018 MSI 季中冠军赛",
+        "eventtype": "1"
+    },
+    "55": {
+        "eid": "623",
+        "name": "2018 MSI 入围赛",
+        "eventtype": "1"
+    },
+    "56": {
+        "eid": "616",
+        "name": "2018 LCK 升降级赛",
+        "eventtype": "1"
+    },
+    "57": {
+        "eid": "613",
+        "name": "UZI 2000杀",
+        "eventtype": "1"
+    },
+    "58": {
+        "eid": "589",
+        "name": "2018 LDL春季赛",
+        "eventtype": "1"
+    },
+    "59": {
+        "eid": "581",
+        "name": "2018 LCS 欧洲春季赛",
+        "eventtype": "1"
+    },
+    "60": {
+        "eid": "572",
+        "name": "2018 LCS 北美春季赛",
+        "eventtype": "1"
+    },
+    "61": {
+        "eid": "583",
+        "name": "2018 LMS 春季赛",
+        "eventtype": "1"
+    },
+    "62": {
+        "eid": "580",
+        "name": "2018 LCK春季赛",
+        "eventtype": "1"
+    },
+    "63": {
+        "eid": "579",
+        "name": "2018 LPL春季赛",
+        "eventtype": "1"
+    },
+    "64": {
+        "eid": "573",
+        "name": "德玛西亚杯青岛站",
+        "eventtype": "1"
+    },
+    "65": {
+        "eid": "571",
+        "name": "春节联欢晚会集中讨论吐槽",
+        "eventtype": "1"
+    },
+    "66": {
+        "eid": "569",
+        "name": "2017NESO总决赛",
+        "eventtype": "1"
+    },
+    "67": {
+        "eid": "564",
+        "name": "2017全明星赛",
+        "eventtype": "1"
+    },
+    "68": {
+        "eid": "565",
+        "name": "2017全明星赛SOLO赛",
+        "eventtype": "1"
+    },
+    "69": {
+        "eid": "560",
+        "name": "2017韩国电竞协会杯",
+        "eventtype": "1"
+    },
+    "70": {
+        "eid": "535",
+        "name": "2017 全球总决赛",
+        "eventtype": "1"
+    },
+    "71": {
+        "eid": "539",
+        "name": "WUCG 世界大学生电子竞技联赛",
+        "eventtype": "1"
+    },
+    "72": {
+        "eid": "532",
+        "name": "2017 全球总决赛 入围赛",
+        "eventtype": "1"
+    },
+    "73": {
+        "eid": "523",
+        "name": "2018 LCK 春季升降级赛",
+        "eventtype": "1"
+    },
+    "74": {
+        "eid": "528",
+        "name": "2017 LCS NA S7资格赛",
+        "eventtype": "1"
+    },
+    "75": {
+        "eid": "527",
+        "name": "2017 LCS EU S7资格赛",
+        "eventtype": "1"
+    },
+    "76": {
+        "eid": "529",
+        "name": "NEST2017全国电子竞技大赛",
+        "eventtype": "1"
+    },
+    "77": {
+        "eid": "522",
+        "name": "2017 LPL S7资格赛",
+        "eventtype": "1"
+    },
+    "78": {
+        "eid": "509",
+        "name": "2017LCK S7资格赛",
+        "eventtype": "1"
+    },
+    "79": {
+        "eid": "517",
+        "name": "2017 LMS S7资格赛",
+        "eventtype": "1"
+    },
+    "80": {
+        "eid": "510",
+        "name": "2018 EU LCS 春季升降级赛",
+        "eventtype": "1"
+    },
+    "81": {
+        "eid": "489",
+        "name": "2017俄土对抗赛",
+        "eventtype": "1"
+    },
+    "82": {
+        "eid": "486",
+        "name": "2017南美对抗赛",
+        "eventtype": "1"
+    },
+    "83": {
+        "eid": "478",
+        "name": "2017欧美对抗赛",
+        "eventtype": "1"
+    },
+    "84": {
+        "eid": "485",
+        "name": "2017太平洋对抗赛",
+        "eventtype": "1"
+    },
+    "85": {
+        "eid": "457",
+        "name": "2017亚洲对抗赛",
+        "eventtype": "1"
+    },
+    "86": {
+        "eid": "466",
+        "name": "2017 LPL 夏季赛",
+        "eventtype": "1"
+    },
+    "87": {
+        "eid": "467",
+        "name": "2017 LSPL 夏季赛",
+        "eventtype": "1"
+    },
+    "88": {
+        "eid": "460",
+        "name": "2017 LCS 北美夏季赛",
+        "eventtype": "1"
+    },
+    "89": {
+        "eid": "465",
+        "name": "2017 LMS 港澳台夏季赛",
+        "eventtype": "1"
+    },
+    "90": {
+        "eid": "463",
+        "name": "2017 LCS 欧洲夏季赛",
+        "eventtype": "1"
+    },
+    "91": {
+        "eid": "459",
+        "name": "2017 LCK 韩国夏季赛",
+        "eventtype": "1"
+    },
+    "92": {
+        "eid": "454",
+        "name": "德玛西亚杯长沙站",
+        "eventtype": "1"
+    },
+    "93": {
+        "eid": "442",
+        "name": "2017 MSI 季中冠军赛",
+        "eventtype": "1"
+    },
+    "94": {
+        "eid": "439",
+        "name": "2017 MSI 入围赛",
+        "eventtype": "1"
+    },
+    "95": {
+        "eid": "437",
+        "name": "2017 LCK 升降级赛",
+        "eventtype": "1"
+    },
+    "96": {
+        "eid": "430",
+        "name": "2017 LPL 升降级赛",
+        "eventtype": "1"
+    },
+    "97": {
+        "eid": "440",
+        "name": "2017 GPL 东南亚 春季赛",
+        "eventtype": "1"
+    },
+    "99": {
+        "eid": "400",
+        "name": "2017 IEM 卡托维兹站",
+        "eventtype": "1"
+    },
+    "100": {
+        "eid": "408",
+        "name": "2017 LCL 独联体 春季赛",
+        "eventtype": "1"
+    },
+    "101": {
+        "eid": "347",
+        "name": "2017 LMS 港澳台春季联赛",
+        "eventtype": "1"
+    },
+    "102": {
+        "eid": "436",
+        "name": "2017 TCL 土耳其冬季赛",
+        "eventtype": "1"
+    },
+    "103": {
+        "eid": "432",
+        "name": "2017 OPL 春季赛",
+        "eventtype": "1"
+    },
+    "104": {
+        "eid": "404",
+        "name": "2017 CBL 巴西夏季赛",
+        "eventtype": "1"
+    },
+    "105": {
+        "eid": "350",
+        "name": "2017 LCS 北美春季赛",
+        "eventtype": "1"
+    },
+    "106": {
+        "eid": "399",
+        "name": "2017 LJL 春季赛",
+        "eventtype": "1"
+    },
+    "107": {
+        "eid": "423",
+        "name": "2017 CLS 南拉丁美洲 春季赛",
+        "eventtype": "1"
+    },
+    "108": {
+        "eid": "351",
+        "name": "2017 LCS 欧洲春季赛",
+        "eventtype": "1"
+    },
+    "109": {
+        "eid": "348",
+        "name": "2017 LPL 春季赛",
+        "eventtype": "1"
+    },
+    "110": {
+        "eid": "366",
+        "name": "2017 LSPL 春季赛",
+        "eventtype": "1"
+    },
+    "111": {
+        "eid": "349",
+        "name": "2017 LCK 韩国春季赛",
+        "eventtype": "1"
+    },
+    "112": {
+        "eid": "422",
+        "name": "2017 LLN 北拉丁美洲 春季赛",
+        "eventtype": "1"
+    },
+    "113": {
+        "eid": "345",
+        "name": "2016无锡中韩电竞对抗赛",
+        "eventtype": "1"
+    },
+    "114": {
+        "eid": "333",
+        "name": "2016 IEM 京畿道站",
+        "eventtype": "1"
+    },
+    "116": {
+        "eid": "311",
+        "name": "2016 IEM 奥克兰站",
+        "eventtype": "1"
+    },
+    "117": {
+        "eid": "298",
+        "name": "NEST2016全国电子竞技大赛",
+        "eventtype": "1"
+    },
+    "118": {
+        "eid": "303",
+        "name": "2016年韩国电竞协会杯",
+        "eventtype": "1"
+    },
+    "120": {
+        "eid": "177",
+        "name": "2016全球总决赛",
+        "eventtype": "1"
+    },
+    "122": {
+        "eid": "250",
+        "name": "2016 S6 世界总决赛LPL预选赛",
+        "eventtype": "1"
+    },
+    "123": {
+        "eid": "469",
+        "name": "LPL 2017 - Spring Promotion",
+        "eventtype": "1"
+    },
+    "124": {
+        "eid": "230",
+        "name": "2016德玛西亚杯—苏州武汉",
+        "eventtype": "1"
+    },
+    "125": {
+        "eid": "221",
+        "name": "2016 LMS 港澳台夏季联赛",
+        "eventtype": "1"
+    },
+    "126": {
+        "eid": "217",
+        "name": "2016 LCS 北美夏季赛",
+        "eventtype": "1"
+    },
+    "127": {
+        "eid": "216",
+        "name": "2016 LCS 欧洲夏季赛",
+        "eventtype": "1"
+    },
+    "128": {
+        "eid": "218",
+        "name": "2016 LPL 夏季赛",
+        "eventtype": "1"
+    },
+    "129": {
+        "eid": "215",
+        "name": "2016 LCK 韩国夏季赛",
+        "eventtype": "1"
+    },
+    "130": {
+        "eid": "178",
+        "name": "2016 MSI 季中冠军赛",
+        "eventtype": "1"
+    },
+    "131": {
+        "eid": "346",
+        "name": "2016 LPL 夏季赛资格赛",
+        "eventtype": "1"
+    },
+    "132": {
+        "eid": "176",
+        "name": "2016 IEM 卡托维兹站",
+        "eventtype": "1"
+    },
+    "133": {
+        "eid": "169",
+        "name": "2016 LCS 北美春季赛",
+        "eventtype": "1"
+    },
+    "134": {
+        "eid": "170",
+        "name": "2016 LCS 欧洲春季赛",
+        "eventtype": "1"
+    },
+    "135": {
+        "eid": "173",
+        "name": "2016 LMS 港澳台春季联赛",
+        "eventtype": "1"
+    },
+    "136": {
+        "eid": "165",
+        "name": "2016 LPL 春季赛",
+        "eventtype": "1"
+    },
+    "137": {
+        "eid": "172",
+        "name": "2016 LCK 韩国春季赛",
+        "eventtype": "1"
+    },
+    "138": {
+        "eid": "164",
+        "name": "2015 IEM 科隆站",
+        "eventtype": "1"
+    },
+    "139": {
+        "eid": "163",
+        "name": "WCA 2015 LOL 全球总决赛",
+        "eventtype": "1"
+    },
+    "141": {
+        "eid": "154",
+        "name": "NEST2015全国电子竞技大赛",
+        "eventtype": "1"
+    },
+    "142": {
+        "eid": "158",
+        "name": "2015 德玛西亚杯—武汉",
+        "eventtype": "1"
+    },
+    "143": {
+        "eid": "152",
+        "name": "2015IEM圣何塞站",
+        "eventtype": "1"
+    },
+    "144": {
+        "eid": "157",
+        "name": "2015年韩国电竞协会杯",
+        "eventtype": "1"
+    },
+    "145": {
+        "eid": "136",
+        "name": "2015全球总决赛",
+        "eventtype": "1"
+    },
+    "146": {
+        "eid": "151",
+        "name": "2016 LCS 北美赛区春季赛资格赛",
+        "eventtype": "1"
+    },
+    "147": {
+        "eid": "150",
+        "name": "2016 LCS 欧洲赛区春季赛资格赛",
+        "eventtype": "1"
+    },
+    "148": {
+        "eid": "137",
+        "name": "2015 S5 LPL 预选赛",
+        "eventtype": "1"
+    },
+    "149": {
+        "eid": "144",
+        "name": "2015 S5 LCK韩国赛区预选赛",
+        "eventtype": "1"
+    },
+    "150": {
+        "eid": "138",
+        "name": "2015 S5 LCS北美赛区预选赛",
+        "eventtype": "1"
+    },
+    "151": {
+        "eid": "139",
+        "name": "2015 S5 LCS欧洲赛区预选赛",
+        "eventtype": "1"
+    },
+    "152": {
+        "eid": "143",
+        "name": "S5赛季世界总决赛外卡赛",
+        "eventtype": "1"
+    },
+    "153": {
+        "eid": "140",
+        "name": "2015 S5 港澳台地区预选赛",
+        "eventtype": "1"
+    },
+    "154": {
+        "eid": "156",
+        "name": "2015 LJL 日本联赛总决赛",
+        "eventtype": "1"
+    },
+    "156": {
+        "eid": "41",
+        "name": "2015 LCS 北美夏季赛",
+        "eventtype": "1"
+    },
+    "157": {
+        "eid": "49",
+        "name": "2015 LCS 欧洲夏季赛",
+        "eventtype": "1"
+    },
+    "160": {
+        "eid": "126",
+        "name": "2015 德玛西亚杯—北京",
+        "eventtype": "1"
+    },
+    "161": {
+        "eid": "62",
+        "name": "2015 LPL 夏季赛",
+        "eventtype": "1"
+    },
+    "162": {
+        "eid": "63",
+        "name": "2015 LMS 港澳台区夏季赛",
+        "eventtype": "1"
+    },
+    "163": {
+        "eid": "60",
+        "name": "2015 LCK 韩国夏季赛",
+        "eventtype": "1"
+    },
+    "164": {
+        "eid": "29",
+        "name": "2015 LCK 夏季资格赛",
+        "eventtype": "1"
+    },
+    "165": {
+        "eid": "33",
+        "name": "2015 MSI 季中邀请赛",
+        "eventtype": "1"
+    },
+    "166": {
+        "eid": "40",
+        "name": "2015 LCS 北美夏季资格赛",
+        "eventtype": "1"
+    },
+    "167": {
+        "eid": "48",
+        "name": "2015 LCS 欧洲夏季资格赛",
+        "eventtype": "1"
+    },
+    "168": {
+        "eid": "61",
+        "name": "2015 LPL 夏季资格赛",
+        "eventtype": "1"
+    },
+    "171": {
+        "eid": "4",
+        "name": "2015 LCS 北美春季赛",
+        "eventtype": "1"
+    },
+    "172": {
+        "eid": "7",
+        "name": "2015 LCS 欧洲春季赛",
+        "eventtype": "1"
+    },
+    "175": {
+        "eid": "11",
+        "name": "2015 LPL 春季赛",
+        "eventtype": "1"
+    },
+    "176": {
+        "eid": "12",
+        "name": "2015 LMS 港澳台春季联赛",
+        "eventtype": "1"
+    },
+    "177": {
+        "eid": "10",
+        "name": "2015 LCK 韩国春季赛",
+        "eventtype": "1"
+    },
+    "178": {
+        "eid": "15",
+        "name": "2015 欧洲扩展赛",
+        "eventtype": "1"
+    },
+    "179": {
+        "eid": "14",
+        "name": "2015 北美扩展赛",
+        "eventtype": "1"
+    },
+    "180": {
+        "eid": "18",
+        "name": "2014 S4 全球总决赛",
+        "eventtype": "1"
+    },
+    "181": {
+        "eid": "39",
+        "name": "2015 LCS 北美春季资格赛",
+        "eventtype": "1"
+    },
+    "182": {
+        "eid": "47",
+        "name": "2015 LCS 欧洲春季资格赛",
+        "eventtype": "1"
+    },
+    "183": {
+        "eid": "32",
+        "name": "2014 S4 世界总决赛LPL预选赛",
+        "eventtype": "1"
+    },
+    "184": {
+        "eid": "58",
+        "name": "S4世界总决赛韩国地区预选赛",
+        "eventtype": "1"
+    },
+    "188": {
+        "eid": "28",
+        "name": "2014 OGN 夏季赛",
+        "eventtype": "1"
+    },
+    "191": {
+        "eid": "31",
+        "name": "2014 LPL 夏季赛",
+        "eventtype": "1"
+    },
+    "192": {
+        "eid": "3",
+        "name": "2014 LCS 北美夏季赛",
+        "eventtype": "1"
+    },
+    "193": {
+        "eid": "6",
+        "name": "2014 LCS 欧洲夏季赛",
+        "eventtype": "1"
+    },
+    "197": {
+        "eid": "38",
+        "name": "2014 LCS 北美夏季资格赛",
+        "eventtype": "1"
+    },
+    "198": {
+        "eid": "46",
+        "name": "2014 LCS 欧洲夏季资格赛",
+        "eventtype": "1"
+    },
+    "201": {
+        "eid": "27",
+        "name": "2014 OGN 春季赛",
+        "eventtype": "1"
+    },
+    "204": {
+        "eid": "30",
+        "name": "2014 LPL 春季赛",
+        "eventtype": "1"
+    },
+    "205": {
+        "eid": "5",
+        "name": "2014 LCS 欧洲春季赛",
+        "eventtype": "1"
+    },
+    "207": {
+        "eid": "2",
+        "name": "2014 LCS 北美春季赛",
+        "eventtype": "1"
+    },
+    "209": {
+        "eid": "37",
+        "name": "2014 LCS 北美春季资格赛",
+        "eventtype": "1"
+    },
+    "210": {
+        "eid": "45",
+        "name": "2014 LCS 欧洲春季资格赛",
+        "eventtype": "1"
+    },
+    "211": {
+        "eid": "36",
+        "name": "2013 S3 全球总决赛 北美预选赛",
+        "eventtype": "1"
+    },
+    "212": {
+        "eid": "17",
+        "name": "2013全球总决赛",
+        "eventtype": "1"
+    },
+    "213": {
+        "eid": "44",
+        "name": "2013 S3 全球总决赛 欧洲预选赛",
+        "eventtype": "1"
+    },
+    "214": {
+        "eid": "167",
+        "name": "2013 LPL 夏季赛",
+        "eventtype": "1"
+    },
+    "215": {
+        "eid": "43",
+        "name": "2013 LCS 欧洲夏季常规赛",
+        "eventtype": "1"
+    },
+    "216": {
+        "eid": "35",
+        "name": "2013 LCS 北美夏季赛",
+        "eventtype": "1"
+    },
+    "217": {
+        "eid": "34",
+        "name": "2013 LCS 北美夏季资格赛",
+        "eventtype": "1"
+    },
+    "218": {
+        "eid": "42",
+        "name": "2013 LCS 欧洲夏季资格赛",
+        "eventtype": "1"
+    },
+    "219": {
+        "eid": "166",
+        "name": "2013 LPL 春季赛",
+        "eventtype": "1"
+    },
+    "220": {
+        "eid": "13",
+        "name": "2013 LCS 欧洲春季赛",
+        "eventtype": "1"
+    },
+    "221": {
+        "eid": "1",
+        "name": "2013 LCS 北美春季赛",
+        "eventtype": "1"
+    },
+    "222": {
+        "eid": "265",
+        "name": "S2赛季世界总决赛",
+        "eventtype": "1"
+    },
+    "223": {
+        "eid": "267",
+        "name": "S1世界总决赛",
+        "eventtype": "1"
+    }
+}

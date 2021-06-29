@@ -1,0 +1,16 @@
+{
+    "headers": {
+        "method": "GET",
+        "scheme": "https",
+        "authority": "na.op.gg",
+        "path": "/summoner/userName=rewr1teee2333",
+        "Cookie": "_fbp=fb.1.1573667299399.620996309; _ym_visorc_52686385=b; cto_bundle=oGknu18yQTJxeGMyV3BEeWhpYnE3b2JybTZFeUJiS2NWN1lmaUxDd0lyb1Vxc3pPOWolMkJsYk1zNGRjYVdMZ3ZSVEtpQ0p6ZzEyOHlUZnduRlFlNDRwS2Y0OWNCOGlLM1RzJTJCUWZoN1BYaDlvVkZwQWFIRlphZ0tIUTNyJTJGQ3RmcU1xcTZzVg; Hm_lpvt_29884b6641f1b5709cc89a8ce5a99366=1575095413; Hm_lvt_29884b6641f1b5709cc89a8ce5a99366=1573954069,1574294068,1574669960,1575015082; _ga=GA1.2.1067831479.1574983150; _gid=GA1.2.545515560.1574983150; GED_PLAYLIST_ACTIVITY=W3sidSI6Imw2bHMiLCJ0c2wiOjE1NzUwOTU0MTEsIm52IjoxLCJ1cHQiOjE1NzUwOTUyODksImx0IjoxNTc1MDk1NDEwfV0.; wcs_bt=55c48ac9e22bec:1575095411; _ym_isad=2; pbjs-id5id=%7B%22ID5ID%22%3A%22ID5-ZHMO7RzKrV6RgK9-PBBL_Z-_sLIqTiRDYuqIOGjkFA%22%2C%22ID5ID_CREATED_AT%22%3A%222019-11-30T06%3A23%3A42.302Z%22%2C%22ID5_CONSENT%22%3Atrue%2C%22CASCADE_NEEDED%22%3Atrue%2C%22ID5ID_LOOKUP%22%3Afalse%2C%223PIDS%22%3A%5B%5D%7D; pbjs-id5id_last=Sat%2C%2030%20Nov%202019%2006%3A23%3A42%20GMT; __gads=ID=44497c177ce46cbf-22902f1e9fbe0020:T=1574983156:RT=1575094535:S=ALNI_MbEf1Vlx1v_aGFM7rB1xBd9Q452OQ; _hist=N0t%20Smurferino%24ReWr1Teee2333; customLocale=en_US; _ym_d=1574983151; _ym_uid=1572236074937381855; cto_lwid=4eff2b05-1741-4f75-8273-c81fe4de7f78",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Host": "na.op.gg",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15",
+        "Accept-Language": "zh-cn",
+        "Referer": "https://na.op.gg/",
+        "Connection": "keep-alive"
+    }
+}

@@ -1,0 +1,27 @@
+class message():
+	def __init__(self, mail, week):
+		Initialize some self attributes. self.mail = mail and self.week = week
+
+	def __str__(self):
+		When call print method, we can print all attributes to tell what attributes we store. 
+
+	def changemail(self, new):
+		If self.mail attribute is wrong or we want to fix it, we can call this method. 
+
+	def changeweek(self, new):
+		If self.week attribute is wrong or we want to fix it, we can call this method. 
+
+class mailbox():
+	def __init__(self):
+		Prompt user to enter a file name
+		Create a list of object as attribute to store all email address and week in this file.
+		When we want to invoke any information we want to get, we can just pick them from this list.
+
+	def __getitem__(self, index):
+		return a tuple which is two value in list with index, mail and week.
+
+	def delmessage(self, index):
+		remove a message from this object with index.
+
+	def addmessage(self, msg):
+		Add new message into list out of class. Add e-mail address and week into self.list.
